@@ -1,4 +1,3 @@
-<p align="center"> # Unity Free Resource Megalist <p align="center">
 <p align="center">List of useful resources I've found. Enjoy your day.<p align="center">
 
 <p align="center"> 
