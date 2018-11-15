@@ -707,4 +707,6 @@ ____________________________
 - [A Programmer's Guide to Game Art](https://www.gamefromscratch.com/post/2013/06/11/Creating-art-for-your-game-when-you-are-a-programmer.aspx) :round_pushpin:
 
 - [How to Draw Pixel Art in Photoshop](https://www.youtube.com/watch?v=qzvYu48kw5Q&list=PLBIb_auVtBwDCYz94DLRsXQ5nuqL7DiAh) - great guide and comes with free assets
+
+- [JM Broderick](http://www.jmbroderick.design/) - good collection of environment design guides
 ____________________________
