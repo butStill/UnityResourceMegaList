@@ -78,13 +78,13 @@ ____________________________________________
 
 ### Blogs and Opeds
 
-- [Medium](https://medium.com/topic/gaming) - News, guides
+- [Medium](https://medium.com/topic/gaming) - News, guides :round_pushpin:
 
-- [Gamasutra](http://www.gamasutra.com/) - News, postmortems, guides, analysis
+- [Gamasutra](http://www.gamasutra.com/) - News, postmortems, guides, analysis :round_pushpin:
 
 - [Unity Blog](https://blogs.unity3d.com/) - Market insights, updates, guides
 
-- [80lv](https://80.lv/) - News, guides
+- [80lv](https://80.lv/) - News, guides :round_pushpin:
 
 - [GameCareerGuide](http://www.gamecareerguide.com/archives/features/2/index.php) - Game development and career guides
 
@@ -98,7 +98,7 @@ ____________________________________________
 
 ### Forums
 
-- [r/Unity3D](https://www.reddit.com/r/Unity3D/) - Projects, guides, news
+- [r/Unity3D](https://www.reddit.com/r/Unity3D/) - Projects, guides, news :round_pushpin:
 
 - [r/Unity2D](https://www.reddit.com/r/Unity2D/) 
 
@@ -110,7 +110,7 @@ ____________________________________________
 
 - [r/GameDesign](https://www.reddit.com/r/gamedesign/)
 
-- [r/GameDev](https://www.reddit.com/r/gamedev/)
+- [r/GameDev](https://www.reddit.com/r/gamedev/) :round_pushpin:
 
 - [r/GameDevScreens](https://www.reddit.com/r/gamedevscreens/) - Game development screenshots
 
@@ -152,7 +152,7 @@ ____________________________________________
 
 ### Unity
 
-- [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) - Unity tutorials
+- [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) - Unity tutorials :round_pushpin:
 
 - [Sykoo](https://www.youtube.com/user/SykooTV/featured) - Unity tutorials
 
@@ -182,7 +182,7 @@ ____________________________________________
 
 - [Design Doc](https://www.youtube.com/user/Warbot40) - Simple game design theory
 
-- [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) and the [GDC Vault](https://www.gdcvault.com/free)
+- [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) and the [GDC Vault](https://www.gdcvault.com/free) :round_pushpin:
 
 - [Pixel Sift](https://www.youtube.com/channel/UCd9LmgS9mm6n94noYfQMfuQ) - Industry podcasts
 
@@ -190,7 +190,7 @@ ____________________________________________
 
 ### Game Analysis
 
-- [Mark Brown](https://www.youtube.com/user/McBacon1337) - Short analysis
+- [Mark Brown](https://www.youtube.com/user/McBacon1337) - Short analysis :round_pushpin:
 
 - [Indigo Gaming](https://www.youtube.com/channel/UCTRohxutThBffdcP3H6O0Zg/videos) - Long analysis
 
@@ -242,9 +242,9 @@ ____________________________
 
 ## General
 
-- [itch.io](https://itch.io/game-assets/free) - Free game assets
+- [itch.io](https://itch.io/game-assets/free) - Free game assets :round_pushpin:
 
-- [UnityList](https://unitylist.com/) - Unity open source search engine, search thousands of repositories
+- [UnityList](https://unitylist.com/) - Unity open source search engine, search thousands of repositories :round_pushpin:
 
 ## Models
 
@@ -262,7 +262,7 @@ ____________________________
 
 - [Sketchfab](https://sketchfab.com/) - 3D store with some free assets
 
-- [Yobi3D](https://www.yobi3d.com/) - 3D search engine, free assets
+- [Yobi3D](https://www.yobi3d.com/) - 3D search engine, free assets :round_pushpin:
 
 - [Free3D](https://free3d.com/) - Collection of free assets
 
@@ -290,7 +290,7 @@ ____________________________
 
 - [Soundscrate](https://soundscrate.com/sound-fx-categories.html) - Decent free SFX/VFX/Graphics, signup required and daily download limit for limited list of free assets
 
-- [99Sounds](http://99sounds.org/) - By far the best quality
+- [99Sounds](http://99sounds.org/) - By far the best quality :round_pushpin:
 
 - [AudioMicro](https://www.audiomicro.com/) - Free stock music/SFX
 
@@ -308,11 +308,11 @@ ____________________________
 
 ## Graphics
 
-- [Graphicburger](https://graphicburger.com/) - Free fonts, icons, and textures, need to sign up
+- [Graphicburger](https://graphicburger.com/) - Free fonts, icons, and textures, need to sign up :round_pushpin:
 
 - [1001FreeDownloads](https://www.1001freedownloads.com/) - Free fonts, icons, vectors, textures
 
-- [Poliigon](https://www.poliigon.com/search/?category=free%20textures) - Free high quality textures
+- [Poliigon](https://www.poliigon.com/search/?category=free%20textures) - Free high quality textures :round_pushpin:
 
 - [Game-Icons.net](https://game-icons.net/) - Free game icons
 
@@ -354,7 +354,7 @@ ____________________________
 
 - [Free UE4 Asset Blog by Michal Orzelek](http://www.michalorzelek.com/blog/category/free-content/)
 
-- [itch.io](https://itch.io/) - Free Indie Assets
+- [itch.io](https://itch.io/) - Free Indie Assets :round_pushpin:
 
 - [HDRI Haven](https://hdrihaven.com/hdris/) - Free HDRIs
 
@@ -375,7 +375,8 @@ ____________________________
 
 ## General Guides
 
-- [80lv Tutorials](https://80.lv/articles/tutorial/) - Bunch of great tutorials
+- [80lv Tutorials](https://80.lv/articles/tutorial/) - Bunch of great tutorials :round_pushpin:
+
 ## Beginner Unity
 
 - [Brackeys Unity Beginner Tutorial Playlist](https://bit.ly/2v8yjxO)
@@ -386,7 +387,7 @@ ____________________________
 
 ## Not Beginner
 
-- [Unity Manual](https://docs.unity3d.com/Manual/index.htmls) 
+- [Unity Manual](https://docs.unity3d.com/Manual/index.htmls) :round_pushpin:
 
 - [2017 Top 10 Tips Unity](https://www.youtube.com/watch?v=JDVuTBHnGWw)
 
@@ -430,7 +431,7 @@ ____________________________
 
 ## Particles
 
-- [Creating Stylized Projectiles in Unity](https://80.lv/articles/creating-projectiles-in-unity/)
+- [Creating Stylized Projectiles in Unity](https://80.lv/articles/creating-projectiles-in-unity/) :round_pushpin:
 
 ## Multiplayer
 
@@ -446,7 +447,7 @@ ____________________________
 
 - [Animation in Naruto](https://www.youtube.com/watch?v=i6Z9m_0-DVo)
 
-- [Animation in Games Function and Automation](https://80.lv/articles/animation-in-games-function-and-automation/)
+- [Animation in Games, Function and Automation](https://80.lv/articles/animation-in-games-function-and-automation/)
 
 - [6 Details to Make a Great Player Character](https://www.youtube.com/watch?v=C2wwxd8SnKY)
 
@@ -466,7 +467,7 @@ ____________________________
 
 ## Camera
 
-- [50 Mistakes to Avoid](https://www.youtube.com/watch?v=C7307qRmlMI)
+- [50 Mistakes to Avoid](https://www.youtube.com/watch?v=C7307qRmlMI) :round_pushpin:
 
 ## Specific Scripts
 
@@ -476,7 +477,7 @@ ____________________________
 
 - [GafferonGames](https://gafferongames.com/) - Lots of networking articles, as well as scripts
 
-- [Unity Scripting Manual](https://unity3d.com/learn/tutorials/s/scripting)
+- [Unity Scripting Manual](https://unity3d.com/learn/tutorials/s/scripting) :round_pushpin:
 
 ## Game Design
 
@@ -488,7 +489,7 @@ ____________________________
 
 - [Designing for Player Expression](https://developer.amazon.com/blogs/appstore/post/32110313-55ac-4109-87a9-e8586ed249ac/designing-for-player-expression) - Design for expectations, actions link into other actions, chain reactions
 
-- [The Art of Screenshake](https://www.youtube.com/watch?v=AJdEqssNZ-U&t=1s)
+- [The Art of Screenshake](https://www.youtube.com/watch?v=AJdEqssNZ-U&t=1s) :round_pushpin:
 
 - [Indie Game Basics: Vlambeer](https://www.youtube.com/watch?v=o7KSbdIEA0U&t=0s&list=WL&index=3)
 
@@ -564,7 +565,7 @@ ___________________________
 
 - [Optimizing Unity UI](https://www.youtube.com/watch?v=eH-PdFKgctE)
 
-- [Optimization of INSIDE](https://www.youtube.com/watch?v=mQ2KTRn4BMI)
+- [Optimization of INSIDE](https://www.youtube.com/watch?v=mQ2KTRn4BMI) :round_pushpin:
 
 - [Content Optimization](https://www.youtube.com/watch?v=n-oZa4Fb12U)
 
@@ -620,7 +621,7 @@ ____________________________
 
 ### Channels
 
-- [Blender Guru](https://www.youtube.com/user/AndrewPPrice/videos) - Tutorials, interviews
+- [Blender Guru](https://www.youtube.com/user/AndrewPPrice/videos) - Tutorials, interviews :round_pushpin:
 
 - [Cédric Lepiller](https://www.youtube.com/user/pitiwazou/videos) - Tutorials, workflow
 
@@ -660,11 +661,11 @@ ____________________________
 
 ### Resources and Inspiration
 
-- [Artstation](https://www.artstation.com/)
+- [Artstation](https://www.artstation.com/) :round_pushpin:
 
 - [Wowhead](https://www.wowhead.com/) - Inspiration for animations, items, and general game design from WoW
 
-- [Behance](https://www.behance.net/) - Has everything including [UI/UX](https://www.behance.net/search?field=132&content=projects&sort=featured_date&time=week&featured_on_behance=true), [sound](https://www.behance.net/galleries/14/Sound?tracking_source=title), and [game design](https://www.behance.net/galleries/11/Game-Design?tracking_source=title), has free assets too
+- [Behance](https://www.behance.net/) - Has everything including [UI/UX](https://www.behance.net/search?field=132&content=projects&sort=featured_date&time=week&featured_on_behance=true), [sound](https://www.behance.net/galleries/14/Sound?tracking_source=title), and [game design](https://www.behance.net/galleries/11/Game-Design?tracking_source=title), has free assets too :round_pushpin:
 
 - [Creativebloq](https://www.creativebloq.com/) - Design inspiration
 
@@ -686,5 +687,5 @@ ____________________________
 
 - [How to Wireframe](https://www.youtube.com/watch?v=UgKmn08-j9Q)
 
-- [A Programmer's Guide to Game Art](https://www.gamefromscratch.com/post/2013/06/11/Creating-art-for-your-game-when-you-are-a-programmer.aspx)
+- [A Programmer's Guide to Game Art](https://www.gamefromscratch.com/post/2013/06/11/Creating-art-for-your-game-when-you-are-a-programmer.aspx) :round_pushpin:
 ____________________________
