@@ -6,7 +6,8 @@
 
 ____________________________________________
 
-##### Table of Contents  
+# Table of Contents  
+
 [Media](#media)
 - [News](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#news)
 - [Blogs and Opeds](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#blogs-and-opeds)
