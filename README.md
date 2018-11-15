@@ -1,5 +1,5 @@
 
-<p align="center">This is the low-budget, no skill, low-iq resource list. Congratulations on fulfilling that description for this invite.Enjoy your day.<p align="center">
+<p align="center"> This is the zero-budget, no skill, low-iq resource list. Enjoy your day.<p align="center">
 <p align="center">
   <a href="https://saythanks.io/to/butStill">
       <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
