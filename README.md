@@ -32,11 +32,18 @@ ____________________________________________
 - [Story Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#story-design)
 - [Lighting](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#lighting)
 - [Shaders](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#shaders)
-- [Post-Processing](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#post-processing)
+- [PostProcessing](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#postprocessing)
 - [Particles](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#particles)
+- [Multiplayer](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#multiplayer)
+- [Animation](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#animation)
+- [UI/UX](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#uiux)
+- [Audio](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#audio)
+- [Camera](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#camera)
+- [Game Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#game-design)
+- [Specific Scripts](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#specific-scripts)
 ____________________________________________
 
-# Media
+> # Media
 
 ### News 
 
@@ -420,7 +427,7 @@ ____________________________
 
 - [Animation in God of War](https://www.gamasutra.com/view/news/316445/Creating_fluid_combat_animations_for_the_new_God_of_War.php)
 
-## UI/UX
+## UIUX
 
 - [Trends in UX Design](https://trends.uxdesign.cc/)
 
