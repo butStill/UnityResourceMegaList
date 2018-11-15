@@ -143,9 +143,9 @@ ____________________________________________
 
 - [Idle GameDev Forums](https://www.idlethumbs.net/forums/forum/38-game-development/) - Small game development forum
 
-- [GameDev.net](https://www.gamedev.net/forums/) - Large game development forum
+- [GameDev.net](https://www.gamedev.net/forums/) - Large game development forum :round_pushpin: 
 
-- [Polycount](https://polycount.com/forum) - Game design/art forum
+- [Polycount](https://polycount.com/forum) - Game design/art forum :round_pushpin: 
 
 ## Youtube Channels 
 
