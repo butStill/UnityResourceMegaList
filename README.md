@@ -1,7 +1,4 @@
-<p align="center">List of useful resources I've found. Enjoy your day.<p align="center">
-
-[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
-
+<p align="center">I've wasted time on this. It's a list of useful resources I've found. Enjoy your day.<p align="center">
 
 <p align="center"
   <a href="https://saythanks.io/to/butStill">
