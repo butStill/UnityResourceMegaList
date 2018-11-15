@@ -26,7 +26,7 @@ ____________________________________________
 ## [Guides and Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#guides-and-resources)
 - [General](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#general-guides)
 - [Beginner Unity](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#beginner-unity)
-- [Intermediate/Advanced Unity](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#intermediate/not-beginner)
+- [Intermediate/Advanced Unity](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#not-beginner)
 - [Programming](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#programming)
 - [Level Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#level-design)
 - [Story Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#story-design)
@@ -45,7 +45,22 @@ ____________________________________________
 ## [Monetization and Analytics](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#guides-and-resources)
 - [Analytics and Testing](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#analytics-and-testing)
 - [Ads](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#ads)
-- [Market Intelligence](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#intermediate/market-intelligence)
+- [Market Intelligence](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#market-intelligence)
+
+## [Optimization](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#optimization)
+
+## [VR/AR Development](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#vrar-development)
+
+## [Mobile Development](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#mobile-development)
+- [Weather](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#weather)
+- [Release](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#mobile-release)
+
+## [PC Development](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#pc-development)
+- [Analytics and Testing](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#pc-release)
+
+## [Blender and Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#blender-and-design)
+- [Blender Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#blender-resources)
+- [Art/Design Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#art-resources)
 ____________________________________________
 
 # Media
@@ -522,7 +537,7 @@ ____________________________
 - [PocketGamer.biz](https://www.pocketgamer.biz/) - Mobile industry news, monetization guides
 ___________________________
 
-# AR Development
+# VRAR Development
 
 - [Microsoft AR](https://docs.microsoft.com/en-us/windows/mixed-reality/best-practices-for-working-with-unity-and-visual-studio)
 ____________________________
@@ -535,7 +550,7 @@ ____________________________
 
 - [VR/Mobile Fog](https://forum.unity.com/threads/vr-mobile-fog.417322/)
 
-## Release
+## Mobile Release
 
 - [AppStore Developer Insights](https://developer.apple.com/app-store/insights/)
 
@@ -544,7 +559,7 @@ ____________________________
 
 # PC Development
 
-### Release
+## PC Release
 
 - [Steamworks](https://partner.steamgames.com/doc/home)
 
