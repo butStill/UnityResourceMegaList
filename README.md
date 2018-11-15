@@ -10,8 +10,9 @@
 <img src="https://user-images.githubusercontent.com/44952272/48558163-acba4c00-e93c-11e8-963c-62958dbb4dd3.gif">
 </p>
 
-<p align="center">:round_pushpin: For favorites<p align="center">
+<p align="center">:round_pushpin: are favorites<p align="center">
 <p align="center">
+
 ____________________________________________
 
 # Table of Contents 
