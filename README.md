@@ -11,15 +11,6 @@
 
 ____________________________________________
 
-<p align="center">
-  <a href="#news">News</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
-</p>
-
 ### Table of Contents 
 
 [Media](#media)
@@ -77,7 +68,8 @@ ____________________________________________
 - [Art/Design Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#art-resources)
 ____________________________________________
 
-# Media
+<h1 align="center"> Media </h1>
+
 
 ### News 
 
