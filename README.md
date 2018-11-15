@@ -63,7 +63,7 @@ ____________________________________________
   - [Art/Design Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#art-resources)
 ____________________________________________
 
-# Media 
+# Media :white_check_mark:
 
 ### News 
 
