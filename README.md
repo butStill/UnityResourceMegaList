@@ -41,6 +41,11 @@ ____________________________________________
 - [Camera](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#camera)
 - [Game Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#game-design)
 - [Specific Scripts](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#specific-scripts)
+
+## [Monetization and Analytics](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#guides-and-resources)
+- [Analytics and Testing](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#analytics-and-testing)
+- [Ads](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#ads)
+- [Market Intelligence](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#intermediate/market-intelligence)
 ____________________________________________
 
 # Media
