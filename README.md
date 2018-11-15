@@ -2,6 +2,10 @@
 List of useful resources I've found. Enjoy your day.
 
 ![hld_03](https://user-images.githubusercontent.com/44952272/48558163-acba4c00-e93c-11e8-963c-62958dbb4dd3.gif)
+
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/44952272/48558163-acba4c00-e93c-11e8-963c-62958dbb4dd3.gif">
+</p>
 ____________________________
 
 ##### Table of Contents  
