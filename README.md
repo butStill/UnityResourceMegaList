@@ -245,6 +245,8 @@ ____________________________
 
 - [UnityList](https://unitylist.com/) - Unity open source search engine, search thousands of repositories :round_pushpin:
 
+- [Humble Bundle](https://www.humblebundle.com/) - The only thing on this list that isn't free, but it's bundles are pretty damn close
+
 ## Models
 
 - [Free Assets Courtesy of Brackeys](http://Devassets.com)
