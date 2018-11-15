@@ -488,6 +488,8 @@ ____________________________
 
 - [Unity Scripting Manual](https://unity3d.com/learn/tutorials/s/scripting) :round_pushpin:
 
+- [Unity Wiki](http://wiki.unity3d.com/index.php/Main_Page) - lots of scripts, shaders, particles, and guides
+
 ## Game Design
 
 - [GameDesigning.org](https://www.gamedesigning.org/category/learn/) - basic game design tutorials
