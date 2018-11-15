@@ -7,13 +7,14 @@
 ____________________________________________
 
 ##### Table of Contents  
-[Headers](#media)  
+[Media](#media)
+-[News](###news)
 [Emphasis](#emphasis)  
 
 
 # Media
 
-### News Articles
+### News 
 
 - [GamesIndustry.biz](https://www.gamesindustry.biz/) - Industry news
 
