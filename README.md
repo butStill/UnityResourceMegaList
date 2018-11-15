@@ -491,8 +491,6 @@ ____________________________
 
 - [Niko](http://nikopartners.com/) - Asian Market, some free reports
 
-- [Sentdex](http://sentdex.com/financial-analysis/) - Sentiment analysis
-
 - [Google Trends](https://trends.google.com/trends/?geo=US)
 
 - [Entertainment Software Association](http://www.theesa.com/) and [their 2018 report](http://www.theesa.com/wp-content/uploads/2018/05/EF2018_FINAL.pdf) - Sector reports
