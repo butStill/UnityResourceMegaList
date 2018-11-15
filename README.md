@@ -519,6 +519,8 @@ ____________________________
 
 - [Game Testing Tips](https://www.reddit.com/r/gamedev/comments/2xcv3p/top_6_ways_to_ignore_feedback_on_your_game/)
 
+- [GameAnalytics](https://gameanalytics.com/) - a free game analytics software 
+
 ## Ads
 
 - [Unity Ads](https://unityads.unity3d.com/help/index?_ga=2.17415548.499791507.1541940236-1009047774.1535284157)
