@@ -10,9 +10,11 @@
 <img src="https://user-images.githubusercontent.com/44952272/48558163-acba4c00-e93c-11e8-963c-62958dbb4dd3.gif">
 </p>
 
+<p align="center">:round_pushpin: For favorites<p align="center">
+<p align="center">
 ____________________________________________
 
-# Table of Contents :round_pushpin:
+# Table of Contents 
 
 * [Media](#media)
   - [News](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#news)
@@ -63,7 +65,7 @@ ____________________________________________
   - [Art/Design Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#art-resources)
 ____________________________________________
 
-# Media :white_check_mark:
+# Media :round_pushpin:
 
 ### News 
 
@@ -233,7 +235,7 @@ ____________________________
 - [b-ok](http://b-ok.xyz/) - free ebooks, use [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html?dswid=7775) to create multiple accounts for infinite downloads
 ____________________________
 
-# Free Assets 
+# Free Assets :round_pushpin:
 
 ## General
 
