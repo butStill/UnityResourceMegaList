@@ -498,6 +498,11 @@ ____________________________
 
 - [michidk's Script Collection](https://github.com/michidk/Unity-Script-Collection)
 
+- [dileeps web](http://dileepsweb.weebly.com/unity-scripts.html) - some basic scripts
+
+- https://devhub.io/repos/michidk-Unity-Script-Collection
+
+
 ## Game Design
 
 - [GameDesigning.org](https://www.gamedesigning.org/category/learn/) - basic game design tutorials
@@ -627,6 +632,8 @@ ____________________________
 - [AppStore Developer Insights](https://developer.apple.com/app-store/insights/)
 
 - [Google Play Resources](https://developer.android.com/distribute)
+
+- [Google Play Mobile Plugin](https://github.com/playgameservices/play-games-plugin-for-unity)
 ____________________________
 
 # PC Development
