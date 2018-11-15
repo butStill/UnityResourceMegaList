@@ -12,9 +12,10 @@ ____________________________________________
 - [News](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#news)
 - [Blogs and Opeds](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#blogs-and-opeds)
 - [Forums](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#forums)
-- [Youtube Channels](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#youtube)
+- [Youtube Channels](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#youtube-channels)
+[Repositories and Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/repositories-and-resources.md#news)
 
-[Repositories and Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/repositories-and-resources.md#news)  
+
 
 
 # Media
