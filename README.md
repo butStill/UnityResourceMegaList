@@ -65,7 +65,7 @@ ____________________________________________
   - [Art/Design Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#art-resources)
 ____________________________________________
 
-# Media :round_pushpin:
+# Media
 
 ### News 
 
@@ -615,7 +615,7 @@ ____________________________
 
 ## Blender
 
-### Media
+### Channels
 
 - [Blender Guru](https://www.youtube.com/user/AndrewPPrice/videos) - Tutorials, interviews
 
