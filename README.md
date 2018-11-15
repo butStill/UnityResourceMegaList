@@ -8,7 +8,7 @@ ____________________________________________
 
 ##### Table of Contents  
 [Media](#media)
--[News](#news)
+- [News](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#news)
 [Emphasis](#emphasis)  
 
 
