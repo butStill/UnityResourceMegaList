@@ -2,6 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 
+
 <p align="center"
   <a href="https://saythanks.io/to/butStill">
       <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
@@ -13,7 +14,7 @@
 
 ____________________________________________
 
-### Table of Contents 
+# Table of Contents 
 
 * [Media](#media)
   - [News](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#news)
