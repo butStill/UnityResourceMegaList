@@ -1,3 +1,4 @@
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/butStill)
 <p align="center">List of useful resources I've found. Enjoy your day.<p align="center">
 
 <p align="center"> 
