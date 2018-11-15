@@ -14,7 +14,7 @@ ____________________________________________
 ### Table of Contents 
 
 * [Media](#media)
-- [News](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#news)
+  - [News](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#news)
 - [Blogs and Opeds](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#blogs-and-opeds)
 - [Forums](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#forums)
 - [Youtube Channels](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#youtube-channels)
