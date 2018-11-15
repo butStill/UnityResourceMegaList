@@ -26,9 +26,14 @@ ____________________________________________
 ## [Guides and Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#guides-and-resources)
 - [General](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#general-guides)
 - [Beginner Unity](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#beginner-unity)
-- [Intermediate/Advanced Unity](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#intermediate/advanced-unity)
+- [Intermediate/Advanced Unity](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#intermediate/not-beginner)
 - [Programming](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#programming)
 - [Level Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#level-design)
+- [Story Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#story-design)
+- [Lighting](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#lighting)
+- [Shaders](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#shaders)
+- [Post-Processing](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#post-processing)
+- [Particles](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#particles)
 ____________________________________________
 
 # Media
@@ -347,7 +352,7 @@ ____________________________
 
 - [Unity Tutorials Page](https://unity3d.com/learn/tutorials?_ga=2.17415548.499791507.1541940236-1009047774.1535284157)
 
-## Intermediate/Advanced Unity
+## Not Beginner
 
 - [Unity Manual](https://docs.unity3d.com/Manual/index.htmls) 
 
