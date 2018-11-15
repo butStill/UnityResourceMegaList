@@ -68,7 +68,7 @@ ____________________________________________
 - [Art/Design Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#art-resources)
 ____________________________________________
 
-<h1 align="center"> Media </h1>
+# Media 
 
 ### News 
 
@@ -238,7 +238,7 @@ ____________________________
 - [b-ok](http://b-ok.xyz/) - free ebooks, use [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html?dswid=7775) to create multiple accounts for infinite downloads
 ____________________________
 
-<h1 align="center"> Free Assets </h1>
+# Free Assets 
 
 ## General
 
