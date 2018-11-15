@@ -1,4 +1,4 @@
-<p align="center">List of useful resources I've found. Enjoy your day.<p align="center">
+<p align="center"><b> bold text</b>List of useful resources I've found. Enjoy your day.<p align="center">
 
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/44952272/48558163-acba4c00-e93c-11e8-963c-62958dbb4dd3.gif">
@@ -43,7 +43,7 @@ ____________________________________________
 - [Specific Scripts](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#specific-scripts)
 ____________________________________________
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) # Media
+# Media
 
 ### News 
 
