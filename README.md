@@ -8,22 +8,22 @@ ____________________________________________
 
 # Table of Contents  
 
-## [Media](#media)
+[Media](#media)
 - [News](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#news)
 - [Blogs and Opeds](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#blogs-and-opeds)
 - [Forums](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#forums)
 - [Youtube Channels](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#youtube-channels)
 
-## [Repositories](https://github.com/butStill/UnityResourceMegaList/blob/master/repositories.md#news)
+[Repositories](https://github.com/butStill/UnityResourceMegaList/blob/master/repositories.md#news)
 
-## [Free Assets](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#free-assets)
+[Free Assets](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#free-assets)
 - [General](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#general)
 - [Models](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#models)
 - [Sound](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#sound)
 - [Graphics](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#graphics)
 - [Tools](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#tools)
 
-## [Guides and Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#guides-and-resources)
+[Guides and Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#guides-and-resources)
 - [General](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#general-guides)
 - [Beginner Unity](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#beginner-unity)
 - [Intermediate/Advanced Unity](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#not-beginner)
@@ -42,28 +42,25 @@ ____________________________________________
 - [Game Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#game-design)
 - [Specific Scripts](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#specific-scripts)
 
-## [Monetization and Analytics](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#guides-and-resources)
+[Monetization and Analytics](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#guides-and-resources)
 - [Analytics and Testing](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#analytics-and-testing)
 - [Ads](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#ads)
 - [Market Intelligence](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#market-intelligence)
 
-## [Optimization](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#optimization)
+[Optimization](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#optimization)
 
-## [VR/AR Development](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#vrar-development)
+[VR/AR Development](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#vrar-development)
 
-## [Mobile Development](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#mobile-development)
+[Mobile Development](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#mobile-development)
 - [Weather](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#weather)
 - [Release](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#mobile-release)
 
-## [PC Development](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#pc-development)
+[PC Development](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#pc-development)
 - [Analytics and Testing](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#pc-release)
 
-## [Blender and Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#blender-and-design)
+[Blender and Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#blender-and-design)
 - [Blender Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#blender-resources)
 - [Art/Design Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#art-resources)
-____________________________________________
-____________________________________________
-____________________________________________
 ____________________________________________
 
 # Media
