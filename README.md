@@ -12,7 +12,7 @@
 </p>
 
 <p align="center"> 
-  :round_pushpin: are favorites 
+  :round_pushpin: are my favorites 
 </p>
 
 ____________________________________________
