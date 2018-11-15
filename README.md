@@ -2,7 +2,7 @@
 
 <p align="center"
   <a href="https://saythanks.io/to/butStill">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
+      <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
 </p>
 
 <p align="center"> 
