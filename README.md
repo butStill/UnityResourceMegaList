@@ -1,5 +1,7 @@
 <p align="center">List of useful resources I've found. Enjoy your day.<p align="center">
 
+[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
+
 <p align="center"
   <a href="https://saythanks.io/to/butStill">
       <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
