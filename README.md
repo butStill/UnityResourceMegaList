@@ -71,81 +71,81 @@ ____________________________________________
 
 ### News 
 
-- [GamesIndustry.biz](https://www.gamesindustry.biz/) <Industry news
+- [GamesIndustry.biz](https://www.gamesindustry.biz/) - industry news
 
 - [GameNewsHQ](http://www.gamenewshq.com/) - a site that compiles all game news 
 
 ### Blogs and Opeds
 
-- [Medium](https://medium.com/topic/gaming) - News, guides :round_pushpin:
+- [Medium](https://medium.com/topic/gaming) - news, guides :round_pushpin:
 
-- [Gamasutra](http://www.gamasutra.com/) - News, postmortems, guides, analysis :round_pushpin:
+- [Gamasutra](http://www.gamasutra.com/) - news, postmortems, guides, analysis :round_pushpin:
 
-- [Unity Blog](https://blogs.unity3d.com/) - Market insights, updates, guides
+- [Unity Blog](https://blogs.unity3d.com/) - market insights, updates, guides
 
-- [80lv](https://80.lv/) - News, guides :round_pushpin:
+- [80lv](https://80.lv/) - news, guides :round_pushpin:
 
-- [GameCareerGuide](http://www.gamecareerguide.com/archives/features/2/index.php) - Game development and career guides
+- [GameCareerGuide](http://www.gamecareerguide.com/archives/features/2/index.php) - game development and career guides
 
-- [GameFromScrath](https://www.gamefromscratch.com/) - Game development tutorials
+- [GameFromScrath](https://www.gamefromscratch.com/) - game development tutorials
 
-- [HobbyGameDev](http://www.hobbygamedev.com/digests/) - Interviews, articles, tutorials
+- [HobbyGameDev](http://www.hobbygamedev.com/digests/) - interviews, articles, tutorials
 
-- [PixelProspector](http://www.pixelprospector.com/) - Great indie game guides, especially for marketing and release
+- [PixelProspector](http://www.pixelprospector.com/) - great indie game guides, especially for marketing and release
 
-- [GameAnalytics](https://gameanalytics.com/blog) - Great tips and guides on everything to do with game analytics and monetization
+- [GameAnalytics](https://gameanalytics.com/blog) - great tips and guides on everything to do with game analytics and monetization
 
 ### Forums
 
-- [r/Unity3D](https://www.reddit.com/r/Unity3D/) - Projects, guides, news :round_pushpin:
+- [r/Unity3D](https://www.reddit.com/r/Unity3D/) - projects, guides, news :round_pushpin:
 
 - [r/Unity2D](https://www.reddit.com/r/Unity2D/) 
 
-- [r/Unity_Tutorials](https://www.reddit.com/r/unity_tutorials/) - Tutorials
+- [r/Unity_Tutorials](https://www.reddit.com/r/unity_tutorials/) - tutorials
 
-- [r/Gaming](https://www.reddit.com/r/gaming/) - Mostly noise but some interesting stuff for inspiration
+- [r/Gaming](https://www.reddit.com/r/gaming/) - mostly noise but some interesting stuff for inspiration
 
-- [r/IndieDev](https://www.reddit.com/r/indiedev/) - Inspiration from indie games, indie development tips
+- [r/IndieDev](https://www.reddit.com/r/indiedev/) - inspiration from indie games, indie development tips
 
 - [r/GameDesign](https://www.reddit.com/r/gamedesign/)
 
 - [r/GameDev](https://www.reddit.com/r/gamedev/) :round_pushpin:
 
-- [r/GameDevScreens](https://www.reddit.com/r/gamedevscreens/) - Game development screenshots
+- [r/GameDevScreens](https://www.reddit.com/r/gamedevscreens/) - game development screenshots
 
 - [r/Blender](https://www.reddit.com/r/blender/)
 
-- [BlenderArtists](https://blenderartists.org/) - Blender forum
+- [BlenderArtists](https://blenderartists.org/) - blender forum
 
 - [r/GameAudio](https://www.reddit.com/r/GameAudio/)
 
-- [r/LevelDesign](https://www.reddit.com/r/leveldesign/) - Small level design subreddit
+- [r/LevelDesign](https://www.reddit.com/r/leveldesign/) - small level design subreddit
 
-- [r/TrueGameDev](https://www.reddit.com/r/truegamedev/) - Little tips for game development
+- [r/TrueGameDev](https://www.reddit.com/r/truegamedev/) - little tips for game development
 
-- [r/DevBlogs](https://www.reddit.com/r/devblogs/) - A bunch of developer blogs
+- [r/DevBlogs](https://www.reddit.com/r/devblogs/) - a bunch of developer blogs
 
-- [r/Gimp](https://www.reddit.com/r/GIMP/) - Forum for the free graphics editor software Gimp
+- [r/Gimp](https://www.reddit.com/r/GIMP/) - forum for the free graphics editor software Gimp
 
 - [r/GameAI](https://www.reddit.com/r/gameai/)
 
-- [Gamedev Facebook Group](https://www.facebook.com/groups/gamedevelopmentx/) - Lots of noise, some useful tips
+- [Gamedev Facebook Group](https://www.facebook.com/groups/gamedevelopmentx/) - lots of noise, some useful tips
 
-- [Unity Connect](https://connect.unity.com/) - A facebook-type game development feed
+- [Unity Connect](https://connect.unity.com/) - a facebook-type game development feed
 
 - Bunch of Quora (Q/A) Pages: [Game Development](https://www.quora.com/topic/Video-Game-Development-2/top_questions), [Indie Game Development](https://www.quora.com/topic/Indie-Game-Development), [Game Development](https://www.quora.com/topic/Mobile-Game-Design-and-Development), [Game Designers and Artists](https://www.quora.com/topic/Video-Game-Designers-and-Artists), [Game Industry](https://www.quora.com/topic/Video-Game-Industry), [Game Design](https://www.quora.com/topic/Video-Game-Design-2), [Unity](https://www.quora.com/topic/Unity-Game-Engine), and [Game Programming](https://www.quora.com/topic/Video-Game-Programming)
 
-- [Stackexchange GameDev](https://gamedev.stackexchange.com/) - Another place to ask gamedev questions
+- [Stackexchange GameDev](https://gamedev.stackexchange.com/) - another place to ask gamedev questions
 
 - [Unity Forums](https://forum.unity.com/) 
 
-- [Indiegamer](http://forums.indiegamer.com/) - Indie development forums
+- [Indiegamer](http://forums.indiegamer.com/) - indie development forums
 
-- [Idle GameDev Forums](https://www.idlethumbs.net/forums/forum/38-game-development/) - Small game development forum
+- [Idle GameDev Forums](https://www.idlethumbs.net/forums/forum/38-game-development/) - small game development forum
 
-- [GameDev.net](https://www.gamedev.net/forums/) - Large game development forum :round_pushpin: 
+- [GameDev.net](https://www.gamedev.net/forums/) - large game development forum :round_pushpin: 
 
-- [Polycount](https://polycount.com/forum) - Game design/art forum :round_pushpin: 
+- [Polycount](https://polycount.com/forum) - game design/art forum :round_pushpin: 
 
 ## Youtube Channels 
 
@@ -159,71 +159,71 @@ ____________________________________________
 
 - [N3K EN](https://www.youtube.com/channel/UCtQPCnbIB7SP_gM1Xtv8bDQ/videos) - Unity tutorials
 
-- [Inscope Studios](https://www.youtube.com/user/KnnthRA/videos) - Beginner Unity tutorials
+- [Inscope Studios](https://www.youtube.com/user/KnnthRA/videos) - beginner Unity tutorials
 
-- [Sharp Accent](https://www.youtube.com/channel/UCq9_1E5HE4c_xmhzD3r7VMw) - Specific Unity tutorials 
+- [Sharp Accent](https://www.youtube.com/channel/UCq9_1E5HE4c_xmhzD3r7VMw) - specific Unity tutorials 
 
 - [Unity3D College](https://www.youtube.com/channel/UCX_b3NNQN5bzExm-22-NVVg) - Unity guides and tips
 
-- [Matthew Palaje](https://www.youtube.com/channel/UCqPKRjVm36xmxu1OiegTWWg/videos) - Specific Unity tutorials
+- [Matthew Palaje](https://www.youtube.com/channel/UCqPKRjVm36xmxu1OiegTWWg/videos) - specific Unity tutorials
 
-- [Speed Tutor](https://www.youtube.com/user/SpeedTutor/videos) - Specific Unity tutorials
+- [Speed Tutor](https://www.youtube.com/user/SpeedTutor/videos) - specific Unity tutorials
 
 ### Programming
 
-- [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ) - Keynotes about programming
+- [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ) - keynotes about programming
 
-- [BoardtoBits](https://www.youtube.com/channel/UCifiUB82IZ6kCkjNXN8dwsQ/videos) - Game Programming
+- [BoardtoBits](https://www.youtube.com/channel/UCifiUB82IZ6kCkjNXN8dwsQ/videos) - game Programming
 
 ### Game Design
 
-- [AI and Games](https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q) - Easy game AI guides
+- [AI and Games](https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q) - easy game AI guides
 
-- [Design Doc](https://www.youtube.com/user/Warbot40) - Simple game design theory
+- [Design Doc](https://www.youtube.com/user/Warbot40) - simple game design theory
 
-- [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) and the [GDC Vault](https://www.gdcvault.com/free) :round_pushpin:
+- [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) and the [GDC Vault](https://www.gdcvault.com/free) :round_pushpin: - game developers conference, plenty of useful keynotes
 
-- [Pixel Sift](https://www.youtube.com/channel/UCd9LmgS9mm6n94noYfQMfuQ) - Industry podcasts
+- [Pixel Sift](https://www.youtube.com/channel/UCd9LmgS9mm6n94noYfQMfuQ) - industry podcasts
 
-- [noclip](https://www.youtube.com/channel/UC0fDG3byEcMtbOqPMymDNbw) - Industry documentaries and interviews
+- [noclip](https://www.youtube.com/channel/UC0fDG3byEcMtbOqPMymDNbw) - industry documentaries and interviews
 
 ### Game Analysis
 
-- [Mark Brown](https://www.youtube.com/user/McBacon1337) - Short analysis :round_pushpin:
+- [Mark Brown](https://www.youtube.com/user/McBacon1337) - short analysis :round_pushpin:
 
-- [Indigo Gaming](https://www.youtube.com/channel/UCTRohxutThBffdcP3H6O0Zg/videos) - Long analysis
+- [Indigo Gaming](https://www.youtube.com/channel/UCTRohxutThBffdcP3H6O0Zg/videos) - long analysis
 
-- [Joseph Anderson](https://www.youtube.com/channel/UCyhnYIvIKK_--PiJXCMKxQQ) - Game critique
+- [Joseph Anderson](https://www.youtube.com/channel/UCyhnYIvIKK_--PiJXCMKxQQ) - game critique
 
-- [Core-A Gaming](https://www.youtube.com/channel/UCT7njg__VOy3n-SvXemDHvg) - Analysis, particularly fighting games
+- [Core-A Gaming](https://www.youtube.com/channel/UCT7njg__VOy3n-SvXemDHvg) - analysis, particularly fighting games
 
-- [Design Doc](https://www.youtube.com/user/Warbot40) - Simple game design theory
+- [Design Doc](https://www.youtube.com/user/Warbot40) - simple game design theory
 
-- [NewFrame Plus](https://www.youtube.com/channel/UCxO_ya-RmAXCXJCU54AxYFw/videos) - Game animation theory
+- [NewFrame Plus](https://www.youtube.com/channel/UCxO_ya-RmAXCXJCU54AxYFw/videos) - game animation theory
 
-- [Raycevick](https://www.youtube.com/channel/UC1JTQBa5QxZCpXrFSkMxmPw) - Game critique
+- [Raycevick](https://www.youtube.com/channel/UC1JTQBa5QxZCpXrFSkMxmPw) - game critique
 
-- [Space Ape Games](https://www.youtube.com/channel/UCEBhD1k1T6RD1Lvks8uaZpQ) - Game design keynotes
+- [Space Ape Games](https://www.youtube.com/channel/UCEBhD1k1T6RD1Lvks8uaZpQ) - game design keynotes
 
-- [Game Wisdom](https://www.youtube.com/channel/UCJPQyAGAbIcXZXfM01oOPOA/featured) - Game design theory and analysis
+- [Game Wisdom](https://www.youtube.com/channel/UCJPQyAGAbIcXZXfM01oOPOA/featured) - game design theory and analysis
 
-- [Fevir](https://www.youtube.com/channel/UCHWRzq45vbfzPagu3AuzwGQ) - Mostly RPG analysis
+- [Fevir](https://www.youtube.com/channel/UCHWRzq45vbfzPagu3AuzwGQ) - mostly RPG analysis
 
-- [Noah Caldwell-Gervais](https://www.youtube.com/user/broadcaststsatic/videos) - Long analysis
+- [Noah Caldwell-Gervais](https://www.youtube.com/user/broadcaststsatic/videos) - long analysis
 
-- [SuperBunnyhop](https://www.youtube.com/channel/UCWqr2tH3dPshNhPjV5h1xRw)
+- [SuperBunnyhop](https://www.youtube.com/channel/UCWqr2tH3dPshNhPjV5h1xRw) - reviews and analysis
 
 ### Art
 
-- [Howard Wimshurst](https://www.youtube.com/user/HowardWimshurst/videos) - Animation analysis, might be of use
+- [Howard Wimshurst](https://www.youtube.com/user/HowardWimshurst/videos) - animation analysis, might be of use
 
-- [LMH Poly](https://www.youtube.com/channel/UCxBaTADLh3uUKhmP1cQ7ddg) - Game asset tutorials
+- [LMH Poly](https://www.youtube.com/channel/UCxBaTADLh3uUKhmP1cQ7ddg) - game asset tutorials
 
 - [Jayanam](https://www.youtube.com/user/jayanamgames) - Blender and Unity tutorials
 
 - [John's Art](https://www.youtube.com/user/LastManTheGame/videos) - Unity 
 
-- [CG Frog](https://www.youtube.com/channel/UCxB_FZFCI6S-fi2YjbC4SGQ) - Level design, low poly design
+- [CG Frog](https://www.youtube.com/channel/UCxB_FZFCI6S-fi2YjbC4SGQ) - level design, low poly design
 
 - [BlackthornProd](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g/videos) - 2D design
 ____________________________
@@ -232,7 +232,7 @@ ____________________________
 
 - [Unity](https://github.com/Unity-Technologies)
 
-- [Unity Technology Evangelists Team](https://github.com/UnityTechnologies) - Mostly beta projects
+- [Unity Technology Evangelists Team](https://github.com/UnityTechnologies) - nostly beta projects
 
 - [b-ok](http://b-ok.xyz/) - free ebooks, use [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html?dswid=7775) to create multiple accounts for infinite downloads
 ____________________________
@@ -241,109 +241,109 @@ ____________________________
 
 ## General
 
-- [itch.io](https://itch.io/game-assets/free) - Free game assets :round_pushpin:
+- [itch.io](https://itch.io/game-assets/free) - free game assets :round_pushpin:
 
 - [UnityList](https://unitylist.com/) - Unity open source search engine, search thousands of repositories :round_pushpin:
 
-- [Humble Bundle](https://www.humblebundle.com/) - The only thing on this list that isn't free, but its bundles are pretty damn close
+- [Humble Bundle](https://www.humblebundle.com/) - the only thing on this list that isn't free, but its bundles are pretty damn close
 
 ## Models
 
 - [Free Assets Courtesy of Brackeys](http://Devassets.com)
 
-- [Free Asset Kits by Kenney](https://kenney.nl/assets) - Particles, textures, models
+- [Free Asset Kits by Kenney](https://kenney.nl/assets) - particles, textures, models
 
-- [Free3D](https://free3d.com/) - Free models
+- [Free3D](https://free3d.com/) - free models
 
 - [Free Low-Poly Assets Courtesy of Jayanam](https://www.patreon.com/posts/free-low-poly-15667050)
 
-- [Google Poly](https://poly.google.com/) - Free CC assets
+- [Google Poly](https://poly.google.com/) - free CC assets
 
-- [Microsoft Remix3D](https://www.remix3d.com/discover?section=34b78f58881242e4ab611e4ab5ffaa78) - Free CC assets, 3D paint
+- [Microsoft Remix3D](https://www.remix3d.com/discover?section=34b78f58881242e4ab611e4ab5ffaa78) - free CC assets, 3D paint
 
 - [Sketchfab](https://sketchfab.com/) - 3D store with some free assets
 
 - [Yobi3D](https://www.yobi3d.com/) - 3D search engine, free assets :round_pushpin:
 
-- [Free3D](https://free3d.com/) - Collection of free assets
+- [Free3D](https://free3d.com/) - collection of free assets, mostly questionable
 
-- [A Great UE4 Scene](https://chloeeemegan.itch.io/recreation-of-surviving-a-pandemic-) - Comes with good tutorial documentation
+- [A Great UE4 Scene](https://chloeeemegan.itch.io/recreation-of-surviving-a-pandemic-) - comes with good tutorial documentation
 
-- [r/GameAssets](https://www.reddit.com/r/gameassets/) - Forum filled with free assets
+- [r/GameAssets](https://www.reddit.com/r/gameassets/) - forum filled with free assets
 
-- [GameDevMarket](https://www.gamedevmarket.net/) - Some free assets
+- [GameDevMarket](https://www.gamedevmarket.net/) - some free assets
 
-- [BlenderNation](https://www.blendernation.com/) - Free models, textures, tutorials
+- [BlenderNation](https://www.blendernation.com/) - free models, textures, tutorials
 
-- [Polygon City Pack](https://www.unrealengine.com/marketplace/polygon-city-pack) - Meant for UE4 but no UE4-exlusive license
+- [Polygon City Pack](https://www.unrealengine.com/marketplace/polygon-city-pack) - meant for UE4 but no UE4-exlusive license
 
 ## Sound
 
 - [FreeSound.org](https://freesound.org/) 
 
-- [OpenMusicArchive](http://openmusicarchive.org/) - Free music
+- [OpenMusicArchive](http://openmusicarchive.org/) - free music
 
-- [IndieGameMusic](http://www.indiegamemusic.com/) - Free indie game music
+- [IndieGameMusic](http://www.indiegamemusic.com/) - free indie game music
 
 - [FreeSFX](http://www.freesfx.co.uk/sfx/) 
 
 - [PremiumBeat](https://www.premiumbeat.com/blog/category/free-for-video/) - SFX/VFX store with some free stuff
 
-- [Soundscrate](https://soundscrate.com/sound-fx-categories.html) - Decent free SFX/VFX/Graphics, signup required and daily download limit for limited list of free assets
+- [Soundscrate](https://soundscrate.com/sound-fx-categories.html) - decent free SFX/VFX/Graphics, signup required and daily download limit for limited list of free assets
 
-- [99Sounds](http://99sounds.org/) - By far the best quality :round_pushpin:
+- [99Sounds](http://99sounds.org/) - by far the best quality :round_pushpin:
 
-- [AudioMicro](https://www.audiomicro.com/) - Free stock music/SFX
+- [AudioMicro](https://www.audiomicro.com/) - free stock music/SFX
 
-- [PacDV](http://www.pacdv.com/sounds/) - Some high quality sample sounds
+- [PacDV](http://www.pacdv.com/sounds/) - some high quality sample sounds
 
-- [Soundjay](https://www.soundjay.com/) and [SoundGator](http://www.soundgator.com/) - Both questionable
+- [Soundjay](https://www.soundjay.com/) and [SoundGator](http://www.soundgator.com/) - both questionable
 
-- [Videvo](https://www.videvo.net/royalty-free-sound-effects/freeclips/yes/) - Some decent free SFX
+- [Videvo](https://www.videvo.net/royalty-free-sound-effects/freeclips/yes/) - some decent free SFX
 
-- [Zapsplat](https://www.zapsplat.com/) - Fairly high quality
+- [Zapsplat](https://www.zapsplat.com/) - fairly high quality
 
-- [Incompetech](https://incompetech.com/) - Free music
+- [Incompetech](https://incompetech.com/) - free music
 
-- [Fantasy Orchestral Music Pack](https://www.unrealengine.com/marketplace/fantasy-orchestral-music) - Meant for UE4 but not licensed explicitly for it
+- [Fantasy Orchestral Music Pack](https://www.unrealengine.com/marketplace/fantasy-orchestral-music) - meant for UE4 but not licensed explicitly for it
 
-- [SoundImage](http://soundimage.org/) - A collection of free SFX
+- [SoundImage](http://soundimage.org/) - a collection of free SFX
 
 ## Graphics
 
-- [Graphicburger](https://graphicburger.com/) - Free fonts, icons, and textures, need to sign up :round_pushpin:
+- [Graphicburger](https://graphicburger.com/) - free fonts, icons, and textures, need to sign up :round_pushpin:
 
-- [1001FreeDownloads](https://www.1001freedownloads.com/) - Free fonts, icons, vectors, textures
+- [1001FreeDownloads](https://www.1001freedownloads.com/) - free fonts, icons, vectors, textures
 
-- [Poliigon](https://www.poliigon.com/search/?category=free%20textures) - Free high quality textures :round_pushpin:
+- [Poliigon](https://www.poliigon.com/search/?category=free%20textures) - free high quality textures :round_pushpin:
 
-- [Game-Icons.net](https://game-icons.net/) - Free game icons
+- [Game-Icons.net](https://game-icons.net/) - free game icons
 
-- [IconMonstr](https://iconmonstr.com/) - Free icons
+- [IconMonstr](https://iconmonstr.com/) - free icons
 
-- [FindIcons](https://findicons.com/) - More free icons
+- [FindIcons](https://findicons.com/) - fore free icons
 
-- [CGSkies](https://www.cgskies.com/) - Some free skyboxes
+- [CGSkies](https://www.cgskies.com/) - some free skyboxes
 
-- [TextureHaven](https://texturehaven.com/) - High quality free textures
+- [TextureHaven](https://texturehaven.com/) - high quality free textures
 
 - [Textures](https://www.textures.com/) - 15 free per day, limited resolution, need to sign up
 
-- [Textture King](https://www.textureking.com/) - Free stock textures
+- [Textture King](https://www.textureking.com/) - free stock textures
 
-- [Plain Textures](www.plaintextures.com) - Free textures
+- [Plain Textures](www.plaintextures.com) - free textures
 
-- [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - Generate good looking trees in browser
+- [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - generate good looking trees in browser
 
-- [OpenGameArt](https://opengameart.org/) - Free game art
+- [OpenGameArt](https://opengameart.org/) - free game art
 
-- [StickPNG](http://www.stickpng.com/) - Free transparent PNGs
+- [StickPNG](http://www.stickpng.com/) - free transparent PNGs
 
-- [Free Assets Courtesy of Jean Moreno](http://www.jeanmoreno.com/) - Some free shaders and assets on unity store
+- [Free Assets Courtesy of Jean Moreno](http://www.jeanmoreno.com/) - some free shaders and assets on unity store
 
-- [Vandelaydesign](https://www.vandelaydesign.com/free-resources/) - List of free design assets
+- [Vandelaydesign](https://www.vandelaydesign.com/free-resources/) - list of free design assets
 
-- [Designermill](https://www.designermill.com/) - Free design assets
+- [Designermill](https://www.designermill.com/) - free design assets
 
 - [Advanced Magic FX](https://www.unrealengine.com/marketplace/advancedmagicfx13) - FX pack for UE4 but not explicitly licensed for it
 
@@ -357,28 +357,28 @@ ____________________________
 
 - [Free UE4 Asset Blog by Michal Orzelek](http://www.michalorzelek.com/blog/category/free-content/)
 
-- [itch.io](https://itch.io/) - Free Indie Assets :round_pushpin:
+- [itch.io](https://itch.io/) - free Indie Assets :round_pushpin:
 
-- [HDRI Haven](https://hdrihaven.com/hdris/) - Free HDRIs
+- [HDRI Haven](https://hdrihaven.com/hdris/) - free HDRIs
 
-- [Craftpix](https://craftpix.net/freebies/) - Free 2D assets
+- [Craftpix](https://craftpix.net/freebies/) - free 2D assets
 
-- [Pixabay](https://pixabay.com/) - Free vector art
+- [Pixabay](https://pixabay.com/) - free vector art
 
-- [Mixamo](https://www.mixamo.com/) - Free characters and animations from Adobe
+- [Mixamo](https://www.mixamo.com/) - free characters and animations from Adobe
 
 - [Free UE4 Environment](https://gumroad.com/l/pOYva)
 
 ## Tools
 
-- [Surge](https://assetstore.unity.com/packages/tools/utilities/surge-107312) - Free collection of tools
+- [Surge](https://assetstore.unity.com/packages/tools/utilities/surge-107312) - free collection of tools
 ____________________________
 
 # Guides and Resources
 
 ## General Guides
 
-- [80lv Tutorials](https://80.lv/articles/tutorial/) - Bunch of great tutorials :round_pushpin:
+- [80lv Tutorials](https://80.lv/articles/tutorial/) - bunch of great tutorials :round_pushpin:
 
 ## Beginner Unity
 
@@ -402,19 +402,19 @@ ____________________________
 
 ## Level Design
 
-- [10 principles of Level Design](https://www.youtube.com/watch?v=iNEe3KhMvXM&t=2509s) - Fun to navigate, doesn't rely on words, tells what but not how, constantly teaches, is suprising, empowers the player, is easy medium and hard, is efficient, creates emotion, is driven by mechanics
+- [10 principles of Level Design](https://www.youtube.com/watch?v=iNEe3KhMvXM&t=2509s) - fun to navigate, doesn't rely on words, tells what but not how, constantly teaches, is suprising, empowers the player, is easy medium and hard, is efficient, creates emotion, is driven by mechanics
 
-- [The Hows and Whys of Level Design](http://www.hourences.com/product/the-hows-and-whys-of-level-design-2/) - Old (2007)
+- [The Hows and Whys of Level Design](http://www.hourences.com/product/the-hows-and-whys-of-level-design-2/) - old (2007)
 
-- [Holistic Level Design](https://www.youtube.com/watch?v=CpOoTAVeEcU) - Designing for intentionality
+- [Holistic Level Design](https://www.youtube.com/watch?v=CpOoTAVeEcU) - designing for intentionality
 
 - [Super Mario's Level Design](https://medium.com/@abhishekiyer_25378/the-perfect-game-tutorial-analyzing-super-marios-level-design-92f08c28bdf7)
 
 ## Story Design
 
-- [Making Choices Matter](https://www.youtube.com/watch?v=JTUER5dPj90) - Story based on player progression choices
+- [Making Choices Matter](https://www.youtube.com/watch?v=JTUER5dPj90) - story based on player progression choices
 
-- [Emily Short's Blog](https://emshort.blog/) - Narrative in games
+- [Emily Short's Blog](https://emshort.blog/) - narrative in games
 
 ## Lighting
 
@@ -424,7 +424,7 @@ ____________________________
 
 ## Shaders
 
-- [Minions Art](https://www.patreon.com/posts/tutorial-list-10663597) - Bunch of stylized art tutorials
+- [Minions Art](https://www.patreon.com/posts/tutorial-list-10663597) - bunch of stylized art tutorials
 
 ## Postprocessing
 
@@ -440,7 +440,7 @@ ____________________________
 
 ## Animation
 
-- [Gamedesigning.org Animation](https://www.gamedesigning.org/category/animation/) - Basic Animation tutorials
+- [Gamedesigning.org Animation](https://www.gamedesigning.org/category/animation/) - basic Animation tutorials
 
 - [Animation for Games](https://vimeo.com/jamesmarijeanne) - by James Marijeanne, a pro
 
@@ -462,7 +462,7 @@ ____________________________
 
 - [Ubisoft Leaked UI Document](http://vgleaks.com/how-to-play-my-game-by-ubisoft-the-division-user-interface-style-guide/)
 
-- [UXmag](http://uxmag.com/) - news
+- [UXmag](http://uxmag.com/) - UX news
 
 ## Audio
 
@@ -478,17 +478,17 @@ ____________________________
 
 - [List of 2D Game Mechanic Scripts](https://gamemechanicexplorer.com/#)
 
-- [GafferonGames](https://gafferongames.com/) - Lots of networking articles, as well as scripts
+- [GafferonGames](https://gafferongames.com/) - lots of networking articles, as well as scripts
 
 - [Unity Scripting Manual](https://unity3d.com/learn/tutorials/s/scripting) :round_pushpin:
 
 ## Game Design
 
-- [GameDesigning.org](https://www.gamedesigning.org/category/learn/) - Basic game design tutorials
+- [GameDesigning.org](https://www.gamedesigning.org/category/learn/) - basic game design tutorials
 
 - [Designing Cozy Games](http://www.lostgarden.com/2018/01/cozy-games.html)
 
-- [theGameDesignForum](http://www.thegamedesignforum.com/) - Detailed game analysis
+- [theGameDesignForum](http://www.thegamedesignforum.com/) - detailed game analysis
 
 - [Designing for Player Expression](https://developer.amazon.com/blogs/appstore/post/32110313-55ac-4109-87a9-e8586ed249ac/designing-for-player-expression) - Design for expectations, actions link into other actions, chain reactions
 
@@ -507,7 +507,7 @@ ____________________________
 
 - [Unity Analytics Standard Events](https://docs.unity3d.com/Manual/UnityAnalyticsStandardEvents.html)
 
-- [Unity Operate Dashboard](https://blogs.unity3d.com/2018/10/12/unitys-operate-dashboard-how-to-measure-monitor-and-optimize-your-free-to-play-game-for-success/) - How to measure, monitor, and optimize your f2p game for success
+- [Unity Operate Dashboard](https://blogs.unity3d.com/2018/10/12/unitys-operate-dashboard-how-to-measure-monitor-and-optimize-your-free-to-play-game-for-success/) - how to measure, monitor, and optimize your f2p game for success
 
 - [Understanding Your Game Through Data](https://galyonk.in/understanding-your-game-through-data-8b09ca93ec11)
 
@@ -525,30 +525,30 @@ ____________________________
 
 - [SteamSpy](http://steamspy.com/) - Steam stats service
 
-- [AppAnnie](https://www.appannie.com/en/) - Some free app market data
+- [AppAnnie](https://www.appannie.com/en/) - some free app market data
 
-- [SuperDataResearch](https://www.superdataresearch.com/blog/) - Some blog posts and free reports
+- [SuperDataResearch](https://www.superdataresearch.com/blog/) - some blog posts and free reports
 
-- [Kickstarter](https://www.kickstarter.com/) - Check out trends and voids
+- [Kickstarter](https://www.kickstarter.com/) - check out trends and voids
 
-- [EEDAR](https://www.eedar.com/free-reports) - Some free reports
+- [EEDAR](https://www.eedar.com/free-reports) - some free reports
 
-- [Newzoo](https://newzoo.com/insights/articles/) - Some articles and free yearly report
+- [Newzoo](https://newzoo.com/insights/articles/) - some articles and free yearly report
 
-- [Niko](http://nikopartners.com/) - Asian Market, some free reports
+- [Niko](http://nikopartners.com/) - Asian market, some free reports
 
 - [Google Trends](https://trends.google.com/trends/?geo=US)
 
-- [Entertainment Software Association](http://www.theesa.com/) and [their 2018 report](http://www.theesa.com/wp-content/uploads/2018/05/EF2018_FINAL.pdf) - Sector reports
+- [Entertainment Software Association](http://www.theesa.com/) and [their 2018 report](http://www.theesa.com/wp-content/uploads/2018/05/EF2018_FINAL.pdf) - sector reports
 
-- [GamesBrief](http://www.gamesbrief.com/) - Industry blogs, the business of free-to-play games
+- [GamesBrief](http://www.gamesbrief.com/) - industry blogs, the business of free-to-play games
 
-- [PocketGamer.biz](https://www.pocketgamer.biz/) - Mobile industry news, monetization guides
+- [PocketGamer.biz](https://www.pocketgamer.biz/) - mobile industry news, monetization guides
 ___________________________
 
 # Optimization: Target Hardware in Mind
 
-- [Maximizing Your Unity Games Performance](https://cgcookie.com/articles/maximizing-your-unity-games-performance) - Keep it Simple, use profiler, batch game bbjects, reduce and reuse textures, use culling to limit what is rendered
+- [Maximizing Your Unity Games Performance](https://cgcookie.com/articles/maximizing-your-unity-games-performance) - keep it Simple, use profiler, batch game bbjects, reduce and reuse textures, use culling to limit what is rendered
 
 - [Unity Practical Guide to Mobile Optimization](https://docs.unity3d.com/Manual/MobileOptimizationPracticalGuide.html)
 
@@ -558,7 +558,7 @@ ___________________________
 
 - [Optimizing Fortnite for Mobile](https://www.youtube.com/watch?v=1xiwJukvb60&feature=youtu.be&t=41m46s) - for UE4 but can have some useful tips
 
-- [Performance Tips for Unity](https://divillysausages.com/2016/01/21/performance-tips-for-unity-2d-mobile/) - Don't use standard shaders, set target framerate, set default settings to medium + pixel light count to 0, disable AA + realtime refleciton probes, disable shadows if you don't use them, turn off v-sync count, don't cache components, disable raycast on ui, set up audio properly, disable multithreaded rendering, use texturepacker + profiler + textmesh pro 
+- [Performance Tips for Unity](https://divillysausages.com/2016/01/21/performance-tips-for-unity-2d-mobile/) - don't use standard shaders, set target framerate, set default settings to medium + pixel light count to 0, disable AA + realtime refleciton probes, disable shadows if you don't use them, turn off v-sync count, don't cache components, disable raycast on ui, set up audio properly, disable multithreaded rendering, use texturepacker + profiler + textmesh pro 
 
 - [Android Optimization Guide](https://www.gamasutra.com/blogs/NielsTiercelin/20170824/304424/Unity_Android_Optimization_Guide.php)
 
@@ -624,29 +624,29 @@ ____________________________
 
 ### Channels
 
-- [Blender Guru](https://www.youtube.com/user/AndrewPPrice/videos) - Tutorials, interviews :round_pushpin:
+- [Blender Guru](https://www.youtube.com/user/AndrewPPrice/videos) - tutorials, interviews :round_pushpin:
 
-- [Cédric Lepiller](https://www.youtube.com/user/pitiwazou/videos) - Tutorials, workflow
+- [Cédric Lepiller](https://www.youtube.com/user/pitiwazou/videos) - tutorials, workflow
 
-- [Blender](https://www.youtube.com/user/BlenderFoundation) - Tutorials
+- [Blender](https://www.youtube.com/user/BlenderFoundation) - tutorials
 
-- [CG Masters](https://www.youtube.com/user/blengine/videos) - Tutorials
+- [CG Masters](https://www.youtube.com/user/blengine/videos) - tutorials
 
-- [CG Cookie](https://www.youtube.com/user/blendercookie/videos) - Tutorials
+- [CG Cookie](https://www.youtube.com/user/blendercookie/videos) - tutorials
 
-- [HEAVY POLY](https://www.youtube.com/user/kakapoopie) - Tutorials, time-lapses
+- [HEAVY POLY](https://www.youtube.com/user/kakapoopie) - tutorials, time-lapses
 
-- [FZD School](https://www.youtube.com/user/FZDSCHOOL/videos) - Concept design tutorials
+- [FZD School](https://www.youtube.com/user/FZDSCHOOL/videos) - concept design tutorials
 
-- [Ahmed Aldoori](https://www.youtube.com/user/revolutions34) - Concept art tutorials
+- [Ahmed Aldoori](https://www.youtube.com/user/revolutions34) - concept art tutorials
 
-- [Moderndayjames](https://www.youtube.com/channel/UCI8GDFj5BQCQrSHITFebzkA/videos) - Drawing and worldbuilding
+- [Moderndayjames](https://www.youtube.com/channel/UCI8GDFj5BQCQrSHITFebzkA/videos) - drawing and worldbuilding
 
-- [Zacharias Reinhardt](https://www.youtube.com/channel/UCWWybvw9jnpOdJq_6wTHryA/videos) - Blender tutorials
+- [Zacharias Reinhardt](https://www.youtube.com/channel/UCWWybvw9jnpOdJq_6wTHryA/videos) - blender tutorials
 
-- [YanSculpts](https://www.youtube.com/channel/UCfjswDVU0XHyBN7UFG0Mi5Q/videos) - Blender sculpting tutorials
+- [YanSculpts](https://www.youtube.com/channel/UCfjswDVU0XHyBN7UFG0Mi5Q/videos) - blender sculpting tutorials
 
-- [Virtus Learning Hub](https://www.youtube.com/user/VirtusEdu/videos) - Some blender and photoshop guides, mostly UE4
+- [Virtus Learning Hub](https://www.youtube.com/user/VirtusEdu/videos) - some blender and photoshop guides, mostly UE4
 
 ### Resources
 
@@ -654,7 +654,7 @@ ____________________________
 
 - [10 Blender UV Tips](https://www.youtube.com/watch?v=brnaAL-QwhU)
 
-- [Free UE4 Asset](https://chloeeemegan.itch.io/recreation-of-surviving-a-pandemic-) - Good blender documentation
+- [Free UE4 Asset](https://chloeeemegan.itch.io/recreation-of-surviving-a-pandemic-) - good blender documentation
 
 - [Blender Manual](https://docs.blender.org/manual/en/latest/index.html)
 
@@ -666,17 +666,17 @@ ____________________________
 
 - [Artstation](https://www.artstation.com/) :round_pushpin:
 
-- [Wowhead](https://www.wowhead.com/) - Inspiration for animations, items, and general game design from WoW
+- [Wowhead](https://www.wowhead.com/) - inspiration for animations, items, and general game design from WoW
 
-- [Behance](https://www.behance.net/) - Has everything including [UI/UX](https://www.behance.net/search?field=132&content=projects&sort=featured_date&time=week&featured_on_behance=true), [sound](https://www.behance.net/galleries/14/Sound?tracking_source=title), and [game design](https://www.behance.net/galleries/11/Game-Design?tracking_source=title), has free assets too :round_pushpin:
+- [Behance](https://www.behance.net/) - has everything including [UI/UX](https://www.behance.net/search?field=132&content=projects&sort=featured_date&time=week&featured_on_behance=true), [sound](https://www.behance.net/galleries/14/Sound?tracking_source=title), and [game design](https://www.behance.net/galleries/11/Game-Design?tracking_source=title), has free assets too :round_pushpin:
 
-- [Creativebloq](https://www.creativebloq.com/) - Design inspiration
+- [Creativebloq](https://www.creativebloq.com/) - design inspiration
 
 ### Guides
 
 - [Using Free Software for Sprites](https://developer.amazon.com/blogs/appstore/post/6f274f74-7bee-4fc7-8dab-b1f66fdb2682/how-non-artists-can-use-free-software-to-create-basic-sprites-and-models-for-their-games)
 
-- [SimonSchreibt](https://simonschreibt.de/game-art-tricks/) - List of game art tips
+- [SimonSchreibt](https://simonschreibt.de/game-art-tricks/) - list of game art tips
 
 - [How to Create and Improve Basic Art](https://developer.amazon.com/blogs/appstore/post/a09b823e-52ce-4606-8b2e-12c12f13a555/how-to-create-and-improve-basic-art)
 
@@ -684,9 +684,9 @@ ____________________________
 
 - [An Intro to Low-Poly and Flat Design](https://developer.amazon.com/blogs/appstore/post/aaedd3b8-5e3f-4b4b-a567-c3257139cbcf/an-intro-to-low-poly-and-flat-design)
 
-- [Howard Wimshurt](https://www.youtube.com/user/HowardWimshurst/videos) - Animation/anime
+- [Howard Wimshurt](https://www.youtube.com/user/HowardWimshurst/videos) - animation/anime
 
-- [Gamedesigning.org](https://www.gamedesigning.org/learn/tutorials/) - Tutorials
+- [Gamedesigning.org](https://www.gamedesigning.org/learn/tutorials/) - tutorials
 
 - [How to Wireframe](https://www.youtube.com/watch?v=UgKmn08-j9Q)
 
