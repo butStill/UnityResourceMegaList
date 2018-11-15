@@ -311,6 +311,12 @@ ____________________________
 
 ## Graphics
 
+- [Google Fonts](https://fonts.google.com/) - free fonts :round_pushpin:
+
+- [1001freefonts](https://www.1001freefonts.com/) - free fonts
+
+- [dafont](https://www.dafont.com) - free fonts
+
 - [Graphicburger](https://graphicburger.com/) - free fonts, icons, and textures, need to sign up :round_pushpin:
 
 - [1001FreeDownloads](https://www.1001freedownloads.com/) - free fonts, icons, vectors, textures
