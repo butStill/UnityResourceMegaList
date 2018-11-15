@@ -23,8 +23,13 @@ ____________________________________________
 - [Graphics](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#graphics)
 - [Tools](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#tools)
 
-
-
+## [Guides and Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#guides-and-resources)
+- [General](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#general)
+- [Models](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#models)
+- [Sound](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#sound)
+- [Graphics](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#graphics)
+- [Tools](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#tools)
+____________________________________________
 
 # Media
 
