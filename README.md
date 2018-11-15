@@ -537,32 +537,6 @@ ____________________________
 - [PocketGamer.biz](https://www.pocketgamer.biz/) - Mobile industry news, monetization guides
 ___________________________
 
-# VRAR Development
-
-- [Microsoft AR](https://docs.microsoft.com/en-us/windows/mixed-reality/best-practices-for-working-with-unity-and-visual-studio)
-____________________________
-
-# Mobile Development
-
-## Weather
-
-- [Creating Fog](https://gamedev.stackexchange.com/questions/143382/how-can-i-create-a-height-based-volumetric-fog)
-
-- [VR/Mobile Fog](https://forum.unity.com/threads/vr-mobile-fog.417322/)
-
-## Mobile Release
-
-- [AppStore Developer Insights](https://developer.apple.com/app-store/insights/)
-
-- [Google Play Resources](https://developer.android.com/distribute)
-____________________________
-
-# PC Development
-
-## PC Release
-
-- [Steamworks](https://partner.steamgames.com/doc/home)
-
 # Optimization: Target Hardware in Mind
 
 - [Maximizing Your Unity Games Performance](https://cgcookie.com/articles/maximizing-your-unity-games-performance) - Keep it Simple, use profiler, batch game bbjects, reduce and reuse textures, use culling to limit what is rendered
@@ -606,6 +580,33 @@ ____________________________
 - [Adreno GPU SDK Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools) 
 
 - [Using the Entity Component System](https://medium.com/improbable-engineering/ask-the-unity-expert-what-is-the-ecs-37616ae375ef)
+____________________________
+
+# VRAR Development
+
+- [Microsoft AR](https://docs.microsoft.com/en-us/windows/mixed-reality/best-practices-for-working-with-unity-and-visual-studio)
+____________________________
+
+# Mobile Development
+
+## Weather
+
+- [Creating Fog](https://gamedev.stackexchange.com/questions/143382/how-can-i-create-a-height-based-volumetric-fog)
+
+- [VR/Mobile Fog](https://forum.unity.com/threads/vr-mobile-fog.417322/)
+
+## Mobile Release
+
+- [AppStore Developer Insights](https://developer.apple.com/app-store/insights/)
+
+- [Google Play Resources](https://developer.android.com/distribute)
+____________________________
+
+# PC Development
+
+## PC Release
+
+- [Steamworks](https://partner.steamgames.com/doc/home)
 ____________________________
 
 #  Design
