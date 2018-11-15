@@ -95,6 +95,8 @@ ____________________________________________
 
 - [GameAnalytics](https://gameanalytics.com/blog) - great tips and guides on everything to do with game analytics and monetization
 
+- [SourceGaming](https://www.sourcegaming.info/) - in-depth mechanic and feature analysis, reviews
+
 ### Forums
 
 - [r/Unity3D](https://www.reddit.com/r/Unity3D/) - projects, guides, news :round_pushpin:
