@@ -237,7 +237,7 @@ ____________________________
 - [b-ok](http://b-ok.xyz/) - free ebooks, use [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html?dswid=7775) to create multiple accounts for infinite downloads
 ____________________________
 
-# Free Assets :round_pushpin:
+# Free Assets 
 
 ## General
 
