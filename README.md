@@ -1,8 +1,6 @@
 <p align="center">I've wasted time on this. It's a list of useful resources I've found. Enjoy your day.<p align="center">
 
-<p align="center"
-  [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/butStill)
-</p>
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/butStill)
 
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/44952272/48558163-acba4c00-e93c-11e8-963c-62958dbb4dd3.gif">
