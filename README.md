@@ -19,13 +19,13 @@ ____________________________________________
 
 # Table of Contents 
 
-* [Media](#media)
+1 * [Media](#media)
   - [News](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#news)
   - [Blogs and Opeds](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#blogs-and-opeds)
   - [Forums](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#forums)
   - [Youtube Channels](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#youtube-channels)
-* [Repositories](https://github.com/butStill/UnityResourceMegaList/blob/master/repositories.md#news)
-* [Free Assets](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#free-assets)
+2 * [Repositories](https://github.com/butStill/UnityResourceMegaList/blob/master/repositories.md#news)
+3 * [Free Assets](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#free-assets)
   - [General](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#general)
   - [Models](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#models)
   - [Sound](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#sound)
