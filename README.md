@@ -496,6 +496,8 @@ ____________________________
 
 - [Unity Wiki](http://wiki.unity3d.com/index.php/Main_Page) - lots of scripts, shaders, particles, and guides
 
+- [michidk's Script Collection](https://github.com/michidk/Unity-Script-Collection)
+
 ## Game Design
 
 - [GameDesigning.org](https://www.gamedesigning.org/category/learn/) - basic game design tutorials
