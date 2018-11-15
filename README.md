@@ -24,11 +24,11 @@ ____________________________________________
 - [Tools](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#tools)
 
 ## [Guides and Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#guides-and-resources)
-- [General](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#general)
-- [Models](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#models)
-- [Sound](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#sound)
-- [Graphics](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#graphics)
-- [Tools](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#tools)
+- [General](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#general-guides)
+- [Beginner Unity](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#beginner-unity)
+- [Intermediate/Advanced Unity](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#intermediate/advanced-unity)
+- [Programming](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#programming)
+- [Level Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#level-design)
 ____________________________________________
 
 # Media
@@ -336,7 +336,7 @@ ____________________________
 
 # Guides and Resources
 
-## General
+## General Guides
 
 - [80lv Tutorials](https://80.lv/articles/tutorial/) - Bunch of great tutorials
 ## Beginner Unity
