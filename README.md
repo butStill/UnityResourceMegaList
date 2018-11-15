@@ -7,11 +7,9 @@
 ____________________________________________
 
 ##### Table of Contents  
-[Headers](#headers)  
+[Headers](#media)  
 [Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+
 
 # Media
 
