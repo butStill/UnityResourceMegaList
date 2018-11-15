@@ -71,7 +71,7 @@ ____________________________________________
 
 ### News 
 
-- [GamesIndustry.biz](https://www.gamesindustry.biz/) - Industry news
+- [GamesIndustry.biz](https://www.gamesindustry.biz/) > Industry news
 
 - [GameNewsHQ](http://www.gamenewshq.com/) - a site that compiles all game news 
 
