@@ -1,3 +1,4 @@
+:ok_hand::ok_hand::ok_hand::ok_hand::ok_hand::ok_hand::ok_hand::ok_hand::ok_hand:
 <p align="center">I've wasted time on this. It's a list of useful resources I've found. Enjoy your day.<p align="center">
 <p align="center">
   <a href="https://saythanks.io/to/butStill">
