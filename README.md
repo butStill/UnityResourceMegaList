@@ -70,7 +70,6 @@ ____________________________________________
 
 <h1 align="center"> Media </h1>
 
-
 ### News 
 
 - [GamesIndustry.biz](https://www.gamesindustry.biz/) - Industry news
@@ -239,7 +238,7 @@ ____________________________
 - [b-ok](http://b-ok.xyz/) - free ebooks, use [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html?dswid=7775) to create multiple accounts for infinite downloads
 ____________________________
 
-# Free Assets
+<h1 align="center"> Free Assets </h1>
 
 ## General
 
