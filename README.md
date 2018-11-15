@@ -1,7 +1,4 @@
 <p align="center">I've wasted time on this. It's a list of useful resources I've found. Enjoy your day.<p align="center">
-
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/butStill)
-
 <p align="center">
   <a href="https://saythanks.io/to/butStill">
       <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
