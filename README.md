@@ -8,7 +8,7 @@ ____________________________________________
 
 ##### Table of Contents  
 [Media](#media)
--[News](###news)
+-[News](#news)
 [Emphasis](#emphasis)  
 
 
