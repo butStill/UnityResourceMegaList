@@ -9,7 +9,11 @@ ____________________________________________
 ##### Table of Contents  
 [Media](#media)
 - [News](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#news)
-[Emphasis](#emphasis)  
+- [Blogs and Opeds](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#blogs-and-opeds)
+- [Forums](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#forums)
+- [Youtube Channels](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#youtube)
+
+[Repositories and Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/repositories-and-resources.md#news)  
 
 
 # Media
@@ -92,7 +96,7 @@ ____________________________________________
 
 - [Polycount](https://polycount.com/forum) - Game design/art forum
 
-## Youtube 
+## Youtube Channels 
 
 ### Unity
 
