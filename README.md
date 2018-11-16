@@ -549,6 +549,10 @@ ____________________________
 
 - [How to Make Greate Game UIUX](https://medium.com/ironequal/the-only-advice-you-will-need-to-make-a-great-game-ui-ux-74a0db8de642)
 
+- [Dead Space UI Design Lessons for VR](https://medium.com/inbeta/dead-space-ui-design-lessons-for-vr-39aa9e976ca8)
+
+- [When Does Diagetic UI Work?](http://www.gamasutra.com/view/feature/4286/game_ui_discoveries_what_players_.php?print=1)
+
 ## Audio
 
 - [Applying Mixing Concepts Into a Game](https://developer.amazon.com/blogs/appstore/post/a4874533-a4e4-4730-bed8-8be019d3a3f7/game-audio-part-2-applying-mixing-concepts-into-a-game)
