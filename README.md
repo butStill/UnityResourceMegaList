@@ -819,6 +819,8 @@ ____________________________
 
 - [Substance Painter](https://www.youtube.com/user/Allegorithmic/videos) - tutorials, news
 
+- [Substance Painter Stylized Sword Tutorial](https://www.youtube.com/watch?v=zCt6Dxb9wPc)
+
 
 
 ___________________________________
