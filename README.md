@@ -192,7 +192,7 @@ ____________________________________________
 
 ### Game Design
 
-- [AI and Games](https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q) - easy game AI guides
+- [AI and Games](https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q) - easy game AI guides, some programming
 
 - [Design Doc](https://www.youtube.com/user/Warbot40) - simple game design theory
 
@@ -425,6 +425,10 @@ ____________________________
 
 - [Beginner Tips and Tricks for Unity 2018](https://www.youtube.com/watch?v=n64QKBlpOpU), [5 tips and tricks for beginners](https://80.lv/articles/5-unity-tips-tricks-for-beginners/), [8 gamedev and Unity beginner tips](https://medium.com/ironequal/8-gamedev-unity-essential-beginner-tips-a80d80a8ae78)
 
+- [Habrador Tutorials](https://www.habrador.com/tutorials/) - List of tutorials on optimization and scripting
+
+- [a pinterest list of tutorials](https://www.pinterest.com.au/appexpanse/unity-games-tutorials/), [more](https://www.pinterest.com.au/viver/unity/)
+
 ## Not Beginner
 
 - [Unity Manual](https://docs.unity3d.com/Manual/index.htmls) :round_pushpin:
@@ -504,6 +508,10 @@ ____________________________
 - [Shannon Berke League of Legends Knowledge Share](https://realtimevfx.com/t/shannon-berke-lol-fx-knowledge-share/1133) - forum post with lots of VFX tips
 
 - [Anime Style VFX Workflow](https://www.youtube.com/watch?v=fE-uDqBpXxI)
+
+- [Pinterest](https://www.pinterest.com.au/pin/358036239124733667/) - a huge list of tutorials for particles if you search for it
+
+- [Mirza VFX](https://www.youtube.com/user/TheMirzaBeig/videos) - lots of particle tutorials
 
 ## Multiplayer
 
@@ -680,6 +688,8 @@ ___________________________
 - [Using the Entity Component System](https://medium.com/improbable-engineering/ask-the-unity-expert-what-is-the-ecs-37616ae375ef)
 
 - [Increase Performance in Unity Games](http://gamedevelopertips.com/increase-performance-in-unity-games/)
+
+- [Habrador Unity Optimization List](https://www.habrador.com/tutorials/unity-optimization/) - a large list of tips 
 ____________________________
 
 # VRAR Development
