@@ -424,6 +424,8 @@ ____________________________
 
 - [League of Legends Map Style](https://oce.leagueoflegends.com/en/news/game-updates/features/dev-blog-defining-rifts-visual-style)
 
+- [Sand Rendering in Unity](https://www.youtube.com/watch?v=wt2yYnBRD3U) - 2013 video
+
 ## Story Design
 
 - [Making Choices Matter](https://www.youtube.com/watch?v=JTUER5dPj90) - story based on player progression choices
@@ -447,8 +449,6 @@ ____________________________
 - [Post Processing Guide](https://connect.unity.com/p/how-post-processing-can-save-the-day?fbclid=IwAR0NNUnoqgoxHQ8y-1e8B9PFFkU3q-cHdKqEB0Pfdicls6ICZzwDVVE4z7w)
 
 - [Unity Lighting Optimization Guide](https://unity3d.com/learn/tutorials/topics/graphics/introduction-precomputed-realtime-gi?playlist=17102)
-
-- [Sand Rendering in Unity](https://www.youtube.com/watch?v=wt2yYnBRD3U) - 2013 video
 
 ## Particles and VFX
 
