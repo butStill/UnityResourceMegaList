@@ -769,14 +769,3 @@ ____________________________
 
 ___________________________________
 
-
-
-
-
-
-
-
-
-
-[:running:](https://drive.google.com/drive/folders/1KmJdc46voXQBZonhMeB-LkELXkXULaYR?usp=sharing)
-
