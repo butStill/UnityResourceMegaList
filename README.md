@@ -512,11 +512,15 @@ ____________________________
 
 - [A Riot SFX Sheet](https://imgur.com/a/8wb4PaG)
 
+- [aSoundEffect](https://www.asoundeffect.com/blog/) - an SFX blog with guides
+
 ## Camera
 
 - [50 Mistakes to Avoid](https://www.youtube.com/watch?v=C7307qRmlMI) :round_pushpin:
 
 ## Specific Scripts
+
+- [SoftRoad Unity Script Collection](http://softroad.net/repo/ebd11b9f6ac2449a85c0ab0468c3ed27-michidk-Unity-Script-Collection) - a maintained list of unity scripts
 
 - [Making a Satisfying Jump](https://developer.amazon.com/blogs/appstore/post/9d2094ed-53cb-4a3a-a5cf-c7f34bca6cd3/coding-imprecise-controls-to-make-them-feel-more-precise)
 
