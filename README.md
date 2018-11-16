@@ -446,6 +446,8 @@ ____________________________
 
 - [Unity Lighting Optimization Guide](https://unity3d.com/learn/tutorials/topics/graphics/introduction-precomputed-realtime-gi?playlist=17102)
 
+- [Sand Rendering in Unity](https://www.youtube.com/watch?v=wt2yYnBRD3U) - 2013 video
+
 ## Particles and VFX
 
 - [Creating Stylized Projectiles in Unity](https://80.lv/articles/creating-projectiles-in-unity/) :round_pushpin:
@@ -461,6 +463,8 @@ ____________________________
 - [Jason Keyser](https://www.youtube.com/user/jasonkeyser/videos) - vfx tutorials, analysis
 
 - [SirhaianArts](https://www.youtube.com/channel/UCUqIetx0scoe79qZTovn9BA/videos) - vfx tutorials, analysis
+
+- [League of Legends VFX Style Guide](https://nexus.leagueoflegends.com/wp-content/uploads/2017/10/VFX_Styleguide_final_public_hidpjqwx7lqyx0pjj3ss.pdf)
 
 ## Multiplayer
 
@@ -515,7 +519,6 @@ ____________________________
 - [dileeps web](http://dileepsweb.weebly.com/unity-scripts.html) - some basic scripts
 
 - https://devhub.io/repos/michidk-Unity-Script-Collection
-
 
 ## Game Design
 
