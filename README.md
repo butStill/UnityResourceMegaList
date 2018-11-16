@@ -526,7 +526,7 @@ ____________________________
 
 - [dileeps web](http://dileepsweb.weebly.com/unity-scripts.html) - some basic scripts
 
-- https://devhub.io/repos/michidk-Unity-Script-Collection
+- [catlikecoding](https://catlikecoding.com/unity/tutorials/) - C# and shader scripts and tutorials
 
 ## Game Design
 
