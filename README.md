@@ -41,7 +41,7 @@ ____________________________________________
   - [Lighting](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#lighting)
   - [Shaders](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#shaders)
   - [PostProcessing](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#postprocessing)
-  - [Particles](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#particles)
+  - [Particles and VFX](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#particles-and-VFX)
   - [Multiplayer](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#multiplayer)
   - [Animation](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#animation)
   - [UI/UX](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#uiux)
@@ -446,9 +446,11 @@ ____________________________
 
 - [Unity Lighting Optimization Guide](https://unity3d.com/learn/tutorials/topics/graphics/introduction-precomputed-realtime-gi?playlist=17102)
 
-## Particles
+## Particles and VFX
 
 - [Creating Stylized Projectiles in Unity](https://80.lv/articles/creating-projectiles-in-unity/) :round_pushpin:
+
+- [The VFX of Diablo III](https://www.gdcvault.com/play/1017660/Technical-Artist-Bootcamp-The-VFX)
 
 ## Multiplayer
 
