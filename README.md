@@ -104,6 +104,8 @@ ____________________________________________
 
 - [unitycoder](https://unitycoder.com/blog/) - tutorials, tips
 
+- [gamedevelopertips](http://gamedevelopertips.com/) 
+
 ### Forums
 
 - [r/Unity3D](https://www.reddit.com/r/Unity3D/) - projects, guides, news :round_pushpin:
@@ -157,6 +159,8 @@ ____________________________________________
 - [GameDev.net](https://www.gamedev.net/forums/) - large game development forum :round_pushpin: 
 
 - [Polycount](https://polycount.com/forum) - game design/art forum :round_pushpin: 
+
+- [Fusroda](http://www.fusroda.com/resources/) - a bunch of resources for art and a community to go with them
 
 ## Youtube Channels 
 
@@ -419,11 +423,13 @@ ____________________________
 
 - [raywenderlich Unity Tutorials](https://www.raywenderlich.com/unity) - a great list of tutorials :round_pushpin:
 
+- [Beginner Tips and Tricks for Unity 2018](https://www.youtube.com/watch?v=n64QKBlpOpU), [5 tips and tricks for beginners](https://80.lv/articles/5-unity-tips-tricks-for-beginners/), [8 gamedev and Unity beginner tips](https://medium.com/ironequal/8-gamedev-unity-essential-beginner-tips-a80d80a8ae78)
+
 ## Not Beginner
 
 - [Unity Manual](https://docs.unity3d.com/Manual/index.htmls) :round_pushpin:
 
-- [2017 Top 10 Tips Unity](https://www.youtube.com/watch?v=JDVuTBHnGWw)
+- Tips: [2017 top 10 tips Unity](https://www.youtube.com/watch?v=JDVuTBHnGWw), [2018 top tips and tricks](https://www.youtube.com/watch?v=v-7PT-o3JAg), [Unity tips](https://unity3d.com/learn/tutorials/s/tips), [5 Unity tips 2018](https://www.youtube.com/watch?v=dqvx5W2D67s), [tips4 Unity Twitter](https://twitter.com/tips4unity?lang=en), [a reddit thread](https://www.reddit.com/r/Unity3D/comments/7gor9r/what_are_your_top_3_unity_tipstricks/), [Unity3D Tips](https://www.unity3dtips.com/), [SharpAccent Unity tips](https://sharpaccent.com/?c=course&id=26), [a Pinterest page](https://www.pinterest.com.au/hallpaul93/unity-tricks-and-tips/?lp=true), [another one](https://www.pinterest.com.au/IceENight/unity-tips/), [and another one](https://www.pinterest.com.au/anoher/unity-tips/), [30 things every Unity developer should know](https://cgcookie.com/articles/30-things-every-unity-developer-should-know), [Game Jamming in Unity: Tips and Tricks to Work Faster](https://m.amazonappservices.com/game-jamming-ebook), [Unity best practices and tips](https://www.toptal.com/unity-unity3d/tips-and-practices), 
 
 ## Programming
 
