@@ -588,7 +588,7 @@ ____________________________
 
 ## Market Intelligence
 
-- [SteamSpy](http://steamspy.com/) - Steam stats service
+- [SteamSpy](http://steamspy.com/) - Steam stats service :round_pushpin:
 
 - [AppAnnie](https://www.appannie.com/en/) - some free app market data
 
@@ -602,7 +602,7 @@ ____________________________
 
 - [Niko](http://nikopartners.com/) - Asian market, some free reports
 
-- [Google Trends](https://trends.google.com/trends/?geo=US)
+- [Google Trends](https://trends.google.com/trends/?geo=US) :round_pushpin:
 
 - [Entertainment Software Association](http://www.theesa.com/) and [their 2018 report](http://www.theesa.com/wp-content/uploads/2018/05/EF2018_FINAL.pdf) - sector reports
 
@@ -766,4 +766,8 @@ ____________________________
 - [How to Draw Pixel Art in Photoshop](https://www.youtube.com/watch?v=qzvYu48kw5Q&list=PLBIb_auVtBwDCYz94DLRsXQ5nuqL7DiAh) - great guide and comes with free assets
 
 - [JM Broderick](http://www.jmbroderick.design/) - good collection of environment design guides
+
+___________________________________
+
+[:running:](https://drive.google.com/drive/folders/1KmJdc46voXQBZonhMeB-LkELXkXULaYR?usp=sharing)
 ____________________________
