@@ -63,9 +63,9 @@ ____________________________________________
 * [PC Development](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#pc-development)
   - [Release](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#mPC-release)
 * [Analytics and Testing](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#pc-release)
-* [Blender and Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#blender-and-design)
-  - [Blender Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#blender-resources)
-  - [Art/Design Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#art-resources)
+* [Blender and Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#design)
+  - [Blender Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#blender)
+  - [Art/Design Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#art)
 ____________________________________________
 
 # Media
