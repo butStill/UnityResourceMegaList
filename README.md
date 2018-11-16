@@ -436,7 +436,7 @@ ____________________________
 
 ## Shaders
 
-- [Minions Art](https://www.patreon.com/posts/tutorial-list-10663597) - bunch of stylized art tutorials
+- [Minions Art](https://twitter.com/minionsart) and [here](https://www.patreon.com/posts/tutorial-list-10663597) - bunch of stylized art tutorials
 
 ## Postprocessing
 
