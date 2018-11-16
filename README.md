@@ -472,6 +472,8 @@ ____________________________
 
 - [League of Legends VFX Style Guide](https://nexus.leagueoflegends.com/wp-content/uploads/2017/10/VFX_Styleguide_final_public_hidpjqwx7lqyx0pjj3ss.pdf)
 
+- [Shannon Berke League of Legends Knowledge Share](https://realtimevfx.com/t/shannon-berke-lol-fx-knowledge-share/1133) - forum post with lots of VFX tips
+
 ## Multiplayer
 
 ## Animation
