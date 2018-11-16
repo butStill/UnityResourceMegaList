@@ -438,6 +438,8 @@ ____________________________
 
 - [Minions Art](https://twitter.com/minionsart) and [here](https://www.patreon.com/posts/tutorial-list-10663597) - bunch of stylized art tutorials
 
+- [Sparkle Shader Tutorial](https://twitter.com/bobacupcake/status/957777266959794176)
+
 ## Postprocessing
 
 - [Post Processing Guide](https://connect.unity.com/p/how-post-processing-can-save-the-day?fbclid=IwAR0NNUnoqgoxHQ8y-1e8B9PFFkU3q-cHdKqEB0Pfdicls6ICZzwDVVE4z7w)
