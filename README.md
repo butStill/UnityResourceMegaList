@@ -428,6 +428,8 @@ ____________________________
 
 - [Sand Rendering in Unity](https://www.youtube.com/watch?v=wt2yYnBRD3U) - 2013 video
 
+- [Building a League of Legends Map](https://nexus.leagueoflegends.com/en-us/2017/09/dev-building-star-guardian-invasion/) and [another one](https://nexus.leagueoflegends.com/en-us/2017/11/dev-downloading-project-overcharge/)
+
 ## Story Design
 
 - [Making Choices Matter](https://www.youtube.com/watch?v=JTUER5dPj90) - story based on player progression choices
