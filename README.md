@@ -445,7 +445,7 @@ ____________________________
 
 - [Unity Design Patterns](https://github.com/QianMo/Unity-Design-Pattern) - have no idea what these are but might be useful
 
-- [CharlesAma](https://www.youtube.com/user/charlesamat/videos) - Unity programming tutorials, [ECS tutorial playlist](https://www.youtube.com/watch?v=yzhsgaFVpZY&list=PLKERDLXpXl_gABNen5aIlTVQ4AP26_J_-&index=1) :round_pushpin:
+- [CharlesAma](https://www.youtube.com/user/charlesamat/videos) - Unity programming tutorials, [ECS tutorial playlist](https://www.youtube.com/watch?v=yzhsgaFVpZY&list=PLKERDLXpXl_gABNen5aIlTVQ4AP26_J_-&index=1) with more on [his website](http://infalliblecode.com/) :round_pushpin:
 
 ## Environment and Level Design
 
@@ -694,6 +694,8 @@ ___________________________
 - [Increase Performance in Unity Games](http://gamedevelopertips.com/increase-performance-in-unity-games/)
 
 - [Habrador Unity Optimization List](https://www.habrador.com/tutorials/unity-optimization/) - a large list of tips 
+
+- [Unity Burst Compiler](https://www.youtube.com/watch?v=oFpXMPK_UUE)
 ____________________________
 
 # VRAR Development
