@@ -452,6 +452,8 @@ ____________________________
 
 - [The VFX of Diablo III](https://www.gdcvault.com/play/1017660/Technical-Artist-Bootcamp-The-VFX)
 
+- [Getting Started in Real-Time VFX](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415)
+
 ## Multiplayer
 
 ## Animation
