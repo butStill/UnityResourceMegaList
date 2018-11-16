@@ -384,6 +384,7 @@ ____________________________
 - [Free UE4 Environment](https://gumroad.com/l/pOYva)
 
 - [ShaderToy](https://www.shadertoy.com/playlist/week) - free shaders
+
 ## Tools
 
 - [Surge](https://assetstore.unity.com/packages/tools/utilities/surge-107312) - free collection of tools
@@ -474,6 +475,8 @@ ____________________________
 - [League of Legends VFX Style Guide](https://nexus.leagueoflegends.com/wp-content/uploads/2017/10/VFX_Styleguide_final_public_hidpjqwx7lqyx0pjj3ss.pdf)
 
 - [Shannon Berke League of Legends Knowledge Share](https://realtimevfx.com/t/shannon-berke-lol-fx-knowledge-share/1133) - forum post with lots of VFX tips
+
+- [Anime Style VFX Workflow](https://www.youtube.com/watch?v=fE-uDqBpXxI)
 
 ## Multiplayer
 
