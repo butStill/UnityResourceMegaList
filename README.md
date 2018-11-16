@@ -445,6 +445,8 @@ ____________________________
 
 - [Unity Design Patterns](https://github.com/QianMo/Unity-Design-Pattern) - have no idea what these are but might be useful
 
+- [CharlesAma](https://www.youtube.com/user/charlesamat/videos) - Unity programming tutorials, [ECS tutorial playlist](https://www.youtube.com/watch?v=yzhsgaFVpZY&list=PLKERDLXpXl_gABNen5aIlTVQ4AP26_J_-&index=1) :round_pushpin:
+
 ## Environment and Level Design
 
 - [10 principles of Level Design](https://www.youtube.com/watch?v=iNEe3KhMvXM&t=2509s) - fun to navigate, doesn't rely on words, tells what but not how, constantly teaches, is suprising, empowers the player, is easy medium and hard, is efficient, creates emotion, is driven by mechanics
@@ -591,7 +593,9 @@ ____________________________
 
 - [Indie Game Basics: Vlambeer](https://www.youtube.com/watch?v=o7KSbdIEA0U&t=0s&list=WL&index=3)
 
-- [Emergent Gameplay](https://www.youtube.com/watch?v=LTc_zIsUfMw) and [this](https://medium.com/@GWBycer/how-to-design-a-game-around-emergent-gameplay-a9348557570b) and [this](https://www.gamasutra.com/blogs/JoshBycer/20150916/253682/Examining_Emergent_Gameplay.php) and [this](https://www.youtube.com/watch?v=EbYvxZcMzGw) - Mechanics are "tools" instead of "keys"
+- [Emergent Gameplay](https://www.youtube.com/watch?v=LTc_zIsUfMw) and [how to design a game around emergent gameplay](https://medium.com/@GWBycer/how-to-design-a-game-around-emergent-gameplay-a9348557570b) and [this](https://www.gamasutra.com/blogs/JoshBycer/20150916/253682/Examining_Emergent_Gameplay.php) and [this](https://www.youtube.com/watch?v=EbYvxZcMzGw) - Mechanics are "tools" instead of "keys"
+
+- 
 
 - [Game Mechanics for Depth](http://www.gamasutra.com/view/feature/5901/evaluating_game_mechanics_for_depth.php?print=1)
 ____________________________
@@ -802,6 +806,18 @@ ____________________________
 - [How to Draw Pixel Art in Photoshop](https://www.youtube.com/watch?v=qzvYu48kw5Q&list=PLBIb_auVtBwDCYz94DLRsXQ5nuqL7DiAh) - great guide and comes with free assets
 
 - [JM Broderick](http://www.jmbroderick.design/) - good collection of environment design guides
+
+- [3d3x](https://www.youtube.com/user/irvin390/videos) - substance designer time lapses and tutorials
+
+- [Substance Painter 101](https://www.youtube.com/watch?v=SwUsULXYC-Y) 
+
+- [How to Stamp on Logos in Substance Painter Using Photoshop](https://www.youtube.com/watch?v=F4b287nwjYY)
+
+- [Basics of Substance Painter](https://www.youtube.com/watch?v=Lv-ed9V0dE4)
+
+- [Substance Painter](https://www.youtube.com/user/Allegorithmic/videos) - tutorials, news
+
+
 
 ___________________________________
 
