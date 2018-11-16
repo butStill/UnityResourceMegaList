@@ -242,8 +242,6 @@ ____________________________
 - [Unity](https://github.com/Unity-Technologies)
 
 - [Unity Technology Evangelists Team](https://github.com/UnityTechnologies) - nostly beta projects
-
-- [b-ok](http://b-ok.xyz/) - free ebooks, use [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html?dswid=7775) to create multiple accounts for infinite downloads
 ____________________________
 
 # Free Assets 
