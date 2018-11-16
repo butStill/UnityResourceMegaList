@@ -473,6 +473,8 @@ ____________________________
 
 - [Unity Lighting Optimization Guide](https://unity3d.com/learn/tutorials/topics/graphics/introduction-precomputed-realtime-gi?playlist=17102)
 
+- [Anti-Aliasing Used in INSIDE](https://github.com/playdeadgames/temporal) - source code
+
 ## Particles and VFX
 
 - [Creating Stylized Projectiles in Unity](https://80.lv/articles/creating-projectiles-in-unity/) :round_pushpin:
