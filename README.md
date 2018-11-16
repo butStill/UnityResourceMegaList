@@ -722,6 +722,8 @@ ____________________________
 
 - [Creativebloq](https://www.creativebloq.com/) - design inspiration
 
+- [notion.so](https://www.notion.so/Reference-for-3D-Art-In-Games-2018-00efa37d7c964871af6ca8f460a9e8f9) - compilation of guides for 3D game art
+
 ### Guides
 
 - [Using Free Software for Sprites](https://developer.amazon.com/blogs/appstore/post/6f274f74-7bee-4fc7-8dab-b1f66fdb2682/how-non-artists-can-use-free-software-to-create-basic-sprites-and-models-for-their-games)
