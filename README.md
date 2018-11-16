@@ -242,6 +242,16 @@ ____________________________
 - [Unity](https://github.com/Unity-Technologies)
 
 - [Unity Technology Evangelists Team](https://github.com/UnityTechnologies) - nostly beta projects
+
+- [IronWarrior](https://github.com/IronWarrior?tab=overview&from=2018-09-01&to=2018-09-30) - scripts for a deprecated character controller and some projectile stuff
+
+- [Another Game Development Resource Repository](https://github.com/ellisonleao/magictools#animation)
+
+- [SindreSorhus Programming Repository](https://github.com/sindresorhus/awesome)
+
+- [Github Browser Extension List](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
+
+- [Stuff in Chinese](https://github.com/QianMo)
 ____________________________
 
 # Free Assets 
@@ -415,9 +425,13 @@ ____________________________
 
 ## Programming
 
-- [Github Cheat Sheet Repository](https://github.com/tiimgreen/github-cheat-sheet#readme)
+- [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
+
+- [Git Tips](https://github.com/git-tips/tips)
 
 - [Free Programming Books Repository](https://github.com/EbookFoundation/free-programming-books)
+
+- [Unity Design Patterns](https://github.com/QianMo/Unity-Design-Pattern) - have no idea what these are but might be useful
 
 ## Environment and Level Design
 
