@@ -48,6 +48,7 @@ ____________________________________________
   - [Audio](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#audio)
   - [Camera](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#camera)
   - [Game Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#game-design)
+  - [AI](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#ai)
   - [Specific Scripts](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#specific-scripts)
 
 * [Monetization and Analytics](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#guides-and-resources)
@@ -517,6 +518,10 @@ ____________________________
 ## Camera
 
 - [50 Mistakes to Avoid](https://www.youtube.com/watch?v=C7307qRmlMI) :round_pushpin:
+
+## AI
+
+- [AI Navmesh Navigation](https://www.binpress.com/unity-3d-ai-navmesh-navigation/)
 
 ## Specific Scripts
 
