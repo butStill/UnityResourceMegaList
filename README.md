@@ -678,6 +678,8 @@ ___________________________
 - [Adreno GPU SDK Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools) 
 
 - [Using the Entity Component System](https://medium.com/improbable-engineering/ask-the-unity-expert-what-is-the-ecs-37616ae375ef)
+
+- [Increase Performance in Unity Games](http://gamedevelopertips.com/increase-performance-in-unity-games/)
 ____________________________
 
 # VRAR Development
