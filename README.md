@@ -36,7 +36,7 @@ ____________________________________________
   - [Beginner Unity](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#beginner-unity)
   - [Intermediate/Advanced Unity](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#not-beginner)
   - [Programming](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#programming)
-  - [Level Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#level-design)
+  - [Envrionment and Level Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#environment-and-level-design)
   - [Story Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#story-design)
   - [Lighting](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#lighting)
   - [Shaders](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#shaders)
@@ -412,7 +412,7 @@ ____________________________
 
 - [Free Programming Books Repository](https://github.com/EbookFoundation/free-programming-books)
 
-## Level Design
+## Environment and Level Design
 
 - [10 principles of Level Design](https://www.youtube.com/watch?v=iNEe3KhMvXM&t=2509s) - fun to navigate, doesn't rely on words, tells what but not how, constantly teaches, is suprising, empowers the player, is easy medium and hard, is efficient, creates emotion, is driven by mechanics
 
@@ -421,6 +421,8 @@ ____________________________
 - [Holistic Level Design](https://www.youtube.com/watch?v=CpOoTAVeEcU) - designing for intentionality
 
 - [Super Mario's Level Design](https://medium.com/@abhishekiyer_25378/the-perfect-game-tutorial-analyzing-super-marios-level-design-92f08c28bdf7)
+
+- [League of Legends Map Style](https://oce.leagueoflegends.com/en/news/game-updates/features/dev-blog-defining-rifts-visual-style)
 
 ## Story Design
 
