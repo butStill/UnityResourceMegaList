@@ -543,6 +543,8 @@ ____________________________
 
 - [UXmag](http://uxmag.com/) - UX news
 
+- [How to Make Greate Game UIUX](https://medium.com/ironequal/the-only-advice-you-will-need-to-make-a-great-game-ui-ux-74a0db8de642)
+
 ## Audio
 
 - [Applying Mixing Concepts Into a Game](https://developer.amazon.com/blogs/appstore/post/a4874533-a4e4-4730-bed8-8be019d3a3f7/game-audio-part-2-applying-mixing-concepts-into-a-game)
