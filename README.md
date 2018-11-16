@@ -99,6 +99,8 @@ ____________________________________________
 
 - [AskAGameDev Tumblr](http://askagamedev.tumblr.com/) - lots of questions and answers 
 
+- [League of Legends Nexus Blog](https://nexus.leagueoflegends.com/en-us/#category/dev) - some insights into high-fidelity design
+
 ### Forums
 
 - [r/Unity3D](https://www.reddit.com/r/Unity3D/) - projects, guides, news :round_pushpin:
