@@ -454,6 +454,14 @@ ____________________________
 
 - [Getting Started in Real-Time VFX](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415)
 
+- [Making Zelda-Like VFX with Unity](https://80.lv/articles/making-zelda-like-vfx-with-unity/)
+
+- [Learning FX Workflow](https://80.lv/articles/learning-fx-workflow/)
+
+- [Jason Keyser](https://www.youtube.com/user/jasonkeyser/videos) - vfx tutorials, analysis
+
+- [SirhaianArts](https://www.youtube.com/channel/UCUqIetx0scoe79qZTovn9BA/videos) - vfx tutorials, analysis
+
 ## Multiplayer
 
 ## Animation
@@ -597,7 +605,7 @@ ___________________________
 
 - [Optimizing Unity UI](https://www.youtube.com/watch?v=eH-PdFKgctE)
 
-- [Optimization of INSIDE](https://www.youtube.com/watch?v=mQ2KTRn4BMI) :round_pushpin:
+- [Optimization of INSIDE](https://www.youtube.com/watch?v=mQ2KTRn4BMI) and [Rendering of INSIDE](https://www.youtube.com/channel/UCUqIetx0scoe79qZTovn9BA/videos) :round_pushpin:
 
 - [Content Optimization](https://www.youtube.com/watch?v=n-oZa4Fb12U)
 
