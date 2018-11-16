@@ -1,5 +1,5 @@
 
-<p align="center"> This is the zero-budget, low-iq, no skill resource list. Enjoy your day.<p align="center">
+<p align="center"> Here's a list of stuff I've found. Enjoy your day.<p align="center">
 <p align="center">
   <a href="https://saythanks.io/to/butStill">
       <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
