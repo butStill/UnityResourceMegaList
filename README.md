@@ -647,7 +647,7 @@ ____________________________
 
 # VRAR Development
 
-- [Microsoft AR](https://docs.microsoft.com/en-us/windows/mixed-reality/best-practices-for-working-with-unity-and-visual-studio)
+- [Microsoft AR Best Practices](https://docs.microsoft.com/en-us/windows/mixed-reality/best-practices-for-working-with-unity-and-visual-studio) and [AR development documents](https://docs.microsoft.com/en-us/windows/mixed-reality/)
 ____________________________
 
 # Mobile Development
