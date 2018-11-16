@@ -475,7 +475,7 @@ ____________________________
 
 ## Shaders
 
-- [Minions Art](https://twitter.com/minionsart) and [here](https://www.patreon.com/posts/tutorial-list-10663597) - bunch of stylized art tutorials and [non-scary shader intro](https://www.patreon.com/posts/how-i-got-with-19042499), [layered rocks tutorial](https://www.patreon.com/posts/quick-game-art-13854302), [stylized tree](https://www.patreon.com/posts/quick-game-art-14329689), [cloud shader](https://www.patreon.com/posts/quick-game-art-17402688), [uv distortion](https://www.patreon.com/posts/quick-game-art-16438429), and [toon snow with buildup](https://www.patreon.com/posts/quick-game-art-15944770) :round_pushpin:
+- [Minions Art](https://twitter.com/minionsart) and [Minions Art Patreon](https://www.patreon.com/posts/tutorial-list-10663597) - bunch of stylized art tutorials and [non-scary shader intro](https://www.patreon.com/posts/how-i-got-with-19042499), [layered rocks tutorial](https://www.patreon.com/posts/quick-game-art-13854302), [stylized tree](https://www.patreon.com/posts/quick-game-art-14329689), [cloud shader](https://www.patreon.com/posts/quick-game-art-17402688), [uv distortion](https://www.patreon.com/posts/quick-game-art-16438429), and [toon snow with buildup](https://www.patreon.com/posts/quick-game-art-15944770) :round_pushpin:
 
 - [Sparkle Shader Tutorial](https://twitter.com/bobacupcake/status/957777266959794176)
 
