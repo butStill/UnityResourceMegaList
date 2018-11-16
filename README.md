@@ -65,7 +65,7 @@ ____________________________________________
 * [Analytics and Testing](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#pc-release)
 * [Blender and Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#design)
   - [Blender Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#blender)
-  - [Art/Design Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#art)
+  - [Art/Design Resources](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#art-resources)
 ____________________________________________
 
 # Media
@@ -771,7 +771,7 @@ ____________________________
 
 - [Creating Better Game Assets in Blender](https://www.oreilly.com/learning-paths/learning-path-creating/9781491992265/9781491992340-video312315)
 
-## Art
+## Art Resources
 
 ### Resources and Inspiration
 
