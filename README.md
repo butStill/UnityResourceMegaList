@@ -405,6 +405,8 @@ ____________________________
 
 - [Unity Tutorials Page](https://unity3d.com/learn/tutorials?_ga=2.17415548.499791507.1541940236-1009047774.1535284157)
 
+- [Introduction to Unity Scripting](https://www.raywenderlich.com/980-introduction-to-unity-scripting)
+
 ## Not Beginner
 
 - [Unity Manual](https://docs.unity3d.com/Manual/index.htmls) :round_pushpin:
@@ -542,8 +544,6 @@ ____________________________
 - [dileeps web](http://dileepsweb.weebly.com/unity-scripts.html) - some basic scripts
 
 - [catlikecoding](https://catlikecoding.com/unity/tutorials/) - C# and shader scripts and tutorials
-
-- [Unity Collision Basics](https://www.binpress.com/unity-3d-collisions-basics/)
 
 ## Game Design
 
