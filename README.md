@@ -498,6 +498,8 @@ ____________________________
 
 - [Applying Mixing Concepts Into a Game](https://developer.amazon.com/blogs/appstore/post/a4874533-a4e4-4730-bed8-8be019d3a3f7/game-audio-part-2-applying-mixing-concepts-into-a-game)
 
+- [A Riot SFX Sheet](https://imgur.com/a/8wb4PaG)
+
 ## Camera
 
 - [50 Mistakes to Avoid](https://www.youtube.com/watch?v=C7307qRmlMI) :round_pushpin:
