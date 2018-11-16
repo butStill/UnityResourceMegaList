@@ -383,6 +383,7 @@ ____________________________
 
 - [Free UE4 Environment](https://gumroad.com/l/pOYva)
 
+- [ShaderToy](https://www.shadertoy.com/playlist/week) - free shaders
 ## Tools
 
 - [Surge](https://assetstore.unity.com/packages/tools/utilities/surge-107312) - free collection of tools
