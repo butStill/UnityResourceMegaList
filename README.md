@@ -302,6 +302,8 @@ ____________________________
 
 - [Polygon City Pack](https://www.unrealengine.com/marketplace/polygon-city-pack) - meant for UE4 but no UE4-exlusive license
 
+- [Mixamo](https://www.mixamo.com/) - free characters and animations from Adobe
+
 ## Sound
 
 - [FreeSound.org](https://freesound.org/) 
@@ -395,8 +397,6 @@ ____________________________
 - [Craftpix](https://craftpix.net/freebies/) - free 2D assets
 
 - [Pixabay](https://pixabay.com/) - free vector art
-
-- [Mixamo](https://www.mixamo.com/) - free characters and animations from Adobe
 
 - [Free UE4 Environment](https://gumroad.com/l/pOYva)
 
