@@ -286,7 +286,7 @@ ____________________________
 
 - [Microsoft Remix3D](https://www.remix3d.com/discover?section=34b78f58881242e4ab611e4ab5ffaa78) - free CC assets, 3D paint
 
-- [Sketchfab](https://sketchfab.com/) - 3D store with some free assets
+- [Sketchfab](https://sketchfab.com/) - 3D store with some free assets :round_pushpin:
 
 - [Yobi3D](https://www.yobi3d.com/) - 3D search engine, free assets :round_pushpin:
 
