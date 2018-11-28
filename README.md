@@ -408,8 +408,6 @@ ____________________________
 
 - [Pixabay](https://pixabay.com/) - free vector art
 
-- [Free UE4 Environment](https://gumroad.com/l/pOYva)
-
 - [ShaderToy](https://www.shadertoy.com/playlist/week) - free shaders
 
 ## Tools
