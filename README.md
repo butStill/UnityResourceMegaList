@@ -530,6 +530,7 @@ ____________________________
 - [Mirza VFX](https://www.youtube.com/user/TheMirzaBeig/videos) - lots of particle tutorials
 
 - [VFX Performance Tips](https://www.youtube.com/watch?v=JqWvJK1uFn8)
+
 ## Multiplayer
 
 ## Animation
@@ -743,7 +744,7 @@ ____________________________
 
 - [Microsoft AR Best Practices](https://docs.microsoft.com/en-us/windows/mixed-reality/best-practices-for-working-with-unity-and-visual-studio) and [AR development documents](https://docs.microsoft.com/en-us/windows/mixed-reality/)
 
-- [VR Rick and Morty](https://www.youtube.com/watch?v=7aqIbeQQL8c) - solving problems with humor, solving VR problems
+- [VR Rick and Morty](https://www.youtube.com/watch?v=7aqIbeQQL8c) - solving problems with humor, solving VR problems :round_pushpin:
 ____________________________
 
 # Mobile Development
