@@ -479,6 +479,8 @@ ____________________________
 
 - [Unity Lighting Optimization Guide](https://unity3d.com/learn/tutorials/topics/graphics/introduction-precomputed-realtime-gi?playlist=17102)
 
+- [Basic Lighting Guide](https://www.youtube.com/watch?v=VnG2gOKV9dw)
+
 ## Shaders
 
 - [Minions Art](https://twitter.com/minionsart) and [Minions Art Patreon](https://www.patreon.com/posts/tutorial-list-10663597) - bunch of stylized art tutorials and [non-scary shader intro](https://www.patreon.com/posts/how-i-got-with-19042499), [layered rocks tutorial](https://www.patreon.com/posts/quick-game-art-13854302), [stylized tree](https://www.patreon.com/posts/quick-game-art-14329689), [cloud shader](https://www.patreon.com/posts/quick-game-art-17402688), [moving grass](https://www.patreon.com/posts/quick-game-art-13724221),[uv distortion](https://www.patreon.com/posts/quick-game-art-16438429), and [toon snow with buildup](https://www.patreon.com/posts/quick-game-art-15944770) :round_pushpin:
@@ -521,6 +523,7 @@ ____________________________
 
 - [Mirza VFX](https://www.youtube.com/user/TheMirzaBeig/videos) - lots of particle tutorials
 
+- [VFX Performance Tips](https://www.youtube.com/watch?v=JqWvJK1uFn8)
 ## Multiplayer
 
 ## Animation
@@ -607,8 +610,6 @@ ____________________________
 
 - [Emergent Gameplay](https://www.youtube.com/watch?v=LTc_zIsUfMw) and [how to design a game around emergent gameplay](https://medium.com/@GWBycer/how-to-design-a-game-around-emergent-gameplay-a9348557570b) and [this](https://www.gamasutra.com/blogs/JoshBycer/20150916/253682/Examining_Emergent_Gameplay.php) and [this](https://www.youtube.com/watch?v=EbYvxZcMzGw) - Mechanics are "tools" instead of "keys"
 
-- 
-
 - [Game Mechanics for Depth](http://www.gamasutra.com/view/feature/5901/evaluating_game_mechanics_for_depth.php?print=1)
 ____________________________
 
@@ -677,15 +678,25 @@ ___________________________
 
 - [Mobile Optimization Tips](https://dilmergames.com/blog/2017/10/02/unity3d-mobile-optimization-tips/) - with additional tips in [reddit thread](https://www.reddit.com/r/Unity3D/comments/73yoxi/unity3d_mobile_optimization_tips/)
 
+- [Mobile Optimization Practical Guide](https://docs.unity3d.com/Manual/MobileOptimizationPracticalGuide.html)
+
 - [Minimizing Memory and CPU Usage](https://www.youtube.com/watch?v=Wg40Ynn7PzI) 
 
 - [Optimizing Unity UI](https://www.youtube.com/watch?v=eH-PdFKgctE)
+
+- [Some Unorthodox Unity Optimization Tips](https://teapotgames.wixsite.com/teapotgames/single-post/2017/06/23/Some-Unorthodox-optimization-tips-with-Unity)
+
+- [Android Optimization in Unity](https://medium.com/ironequal/android-optimization-with-unity-3504b34f00b0)
 
 - [Optimization of INSIDE](https://www.youtube.com/watch?v=mQ2KTRn4BMI) and [Rendering of INSIDE](https://www.youtube.com/channel/UCUqIetx0scoe79qZTovn9BA/videos) :round_pushpin:
 
 - [Content Optimization](https://www.youtube.com/watch?v=n-oZa4Fb12U)
 
 - [Optimizing Mobile Apps](https://bit.ly/29pXwbL)
+
+- [GPU Instancing Unity Guide](https://docs.unity3d.com/Manual/GPUInstancing.html)
+
+- [How to GPU Instance](https://www.youtube.com/watch?v=e5WXx4PQXpU)
 
 - [Optimizing Hierarchy](https://blogs.unity3d.com/2017/06/29/best-practices-from-the-spotlight-team-optimizing-the-hierarchy/)
 
