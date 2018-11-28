@@ -620,7 +620,7 @@ ____________________________
 
 - [Enabling Setbacks for Consequential Play](https://www.youtube.com/watch?v=qnjQTNh034o)
 
-- [Designing Reward](https://www.youtube.com/watch?v=xkg9ocYDLr8)
+- [Designing Reward](https://www.youtube.com/watch?v=xkg9ocYDLr8) :round_pushpin:
 
 ## Marketing
 
