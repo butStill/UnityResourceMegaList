@@ -310,7 +310,7 @@ ____________________________
 
 - [Polygon City Pack](https://www.unrealengine.com/marketplace/polygon-city-pack) - meant for UE4 but no UE4-exlusive license
 
-- [Mixamo](https://www.mixamo.com/) - free characters and animations from Adobe
+- [Mixamo](https://www.mixamo.com/) - free characters and animations from Adobe :round_pushpin:
 
 ## Sound
 
@@ -617,6 +617,14 @@ ____________________________
 - [Emergent Gameplay](https://www.youtube.com/watch?v=LTc_zIsUfMw) and [how to design a game around emergent gameplay](https://medium.com/@GWBycer/how-to-design-a-game-around-emergent-gameplay-a9348557570b) and [this](https://www.gamasutra.com/blogs/JoshBycer/20150916/253682/Examining_Emergent_Gameplay.php) and [this](https://www.youtube.com/watch?v=EbYvxZcMzGw) - Mechanics are "tools" instead of "keys"
 
 - [Game Mechanics for Depth](http://www.gamasutra.com/view/feature/5901/evaluating_game_mechanics_for_depth.php?print=1)
+
+- [Enabling Setbacks for Consequential Play](https://www.youtube.com/watch?v=qnjQTNh034o)
+
+- [Designing Reward](https://www.youtube.com/watch?v=xkg9ocYDLr8)
+
+## Marketing
+
+- [Making the World Give a Damn About Your Game in 2018](https://www.youtube.com/watch?v=IWRu3RRqQmY)
 ____________________________
 
 # Monetization and Analytics
