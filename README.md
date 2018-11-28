@@ -742,6 +742,8 @@ ____________________________
 # VRAR Development
 
 - [Microsoft AR Best Practices](https://docs.microsoft.com/en-us/windows/mixed-reality/best-practices-for-working-with-unity-and-visual-studio) and [AR development documents](https://docs.microsoft.com/en-us/windows/mixed-reality/)
+
+- [VR Rick and Morty](https://www.youtube.com/watch?v=7aqIbeQQL8c) - solving problems with humor, solving VR problems
 ____________________________
 
 # Mobile Development
