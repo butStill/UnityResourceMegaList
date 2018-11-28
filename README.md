@@ -228,6 +228,10 @@ ____________________________________________
 
 - [SuperBunnyhop](https://www.youtube.com/channel/UCWqr2tH3dPshNhPjV5h1xRw) - reviews and analysis
 
+- [nerdSlayer](https://www.youtube.com/channel/UCiwFcYaaqDSkzaA0CipV2BA) - podcasts, postmortems
+
+- [The Lazy Peon](https://www.youtube.com/user/ALazyPeon/videos) - first impressions, how does a new player view MMOs
+
 ### Art
 
 - [Howard Wimshurst](https://www.youtube.com/user/HowardWimshurst/videos) - animation analysis, might be of use
@@ -241,6 +245,8 @@ ____________________________________________
 - [CG Frog](https://www.youtube.com/channel/UCxB_FZFCI6S-fi2YjbC4SGQ) - level design, low poly design
 
 - [BlackthornProd](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g/videos) - 2D design
+
+- [Trent Kaniuga](https://www.youtube.com/user/novacolonyshow/videos) - insights into game art industry, including [differences in illustration vs. concept art](https://www.youtube.com/watch?v=q05Ikl-uUB8&t=6s) and [tips for game art professionals - provides insight into industry](https://www.youtube.com/watch?v=JPC-4yT8-TI&t=890s)
 ____________________________
 
 # Repositories and Resources
