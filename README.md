@@ -232,6 +232,8 @@ ____________________________________________
 
 - [The Lazy Peon](https://www.youtube.com/user/ALazyPeon/videos) - first impressions, how does a new player view MMOs
 
+-[KingK](https://www.youtube.com/channel/UC18YhnNvyrU2kTwCyj9p5ag) - long analysis, particularly Nintendo games
+
 ### Art
 
 - [Howard Wimshurst](https://www.youtube.com/user/HowardWimshurst/videos) - animation analysis, might be of use
