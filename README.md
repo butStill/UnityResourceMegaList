@@ -50,11 +50,11 @@ ____________________________________________
   - [Game Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#game-design)
   - [AI](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#ai)
   - [Specific Scripts](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#specific-scripts)
-
 * [Monetization and Analytics](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#guides-and-resources)
   - [Analytics and Testing](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#analytics-and-testing)
   - [Ads](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#ads)
   - [Market Intelligence](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#market-intelligence)
+* [Law](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#law)
 * [Optimization](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#optimization)
 * [VR/AR Development](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#vrar-development)
 * [Mobile Development](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#mobile-development)
