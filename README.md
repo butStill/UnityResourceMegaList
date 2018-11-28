@@ -666,6 +666,10 @@ ____________________________
 - [PocketGamer.biz](https://www.pocketgamer.biz/) - mobile industry news, monetization guides
 ___________________________
 
+# Law
+
+- [Practical IP Law for Indie Developers](https://www.youtube.com/watch?v=ePQcAjuiSEo)
+
 # Optimization: Target Hardware in Mind
 
 - [Maximizing Your Unity Games Performance](https://cgcookie.com/articles/maximizing-your-unity-games-performance) - keep it Simple, use profiler, batch game bbjects, reduce and reuse textures, use culling to limit what is rendered
