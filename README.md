@@ -867,6 +867,8 @@ ____________________________
 
 - [Sinix Design](https://www.youtube.com/user/sinixdesign/videos) - great art and design tutorials :round_pushpin:
 
+- [The Secret of Making High Quality Art in Blender (and Everywhere)](https://www.youtube.com/watch?v=qMH_J_vcoqE) - non-uniform distribution of shapes (big medium small with high variety in each category - about 5x space ascending), balance areas of detail with negative space, clump together to form points of interest :round_pushpin:
+
 
 
 ___________________________________
