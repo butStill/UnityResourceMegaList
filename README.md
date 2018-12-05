@@ -865,6 +865,8 @@ ____________________________
 
 - [Substance Painter Stylized Sword Tutorial](https://www.youtube.com/watch?v=zCt6Dxb9wPc)
 
+- [Sinix Design](https://www.youtube.com/user/sinixdesign/videos) - great art and design tutorials :round_pushpin:
+
 
 
 ___________________________________
