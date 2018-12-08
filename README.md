@@ -202,6 +202,8 @@ ____________________________________________
 
 - [noclip](https://www.youtube.com/channel/UC0fDG3byEcMtbOqPMymDNbw) - industry documentaries and interviews
 
+- [VaatiVidya](https://www.youtube.com/user/VaatiVidya) - story design, mostly Dark Souls content
+
 ### Game Analysis
 
 - [Mark Brown](https://www.youtube.com/user/McBacon1337) - short analysis :round_pushpin:
