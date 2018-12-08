@@ -414,6 +414,8 @@ ____________________________
 
 - [ShaderToy](https://www.shadertoy.com/playlist/week) - free shaders
 
+- [UIGradients](https://uigradients.com/) - free gradients
+
 ## Tools
 
 - [Surge](https://assetstore.unity.com/packages/tools/utilities/surge-107312) - free collection of tools
