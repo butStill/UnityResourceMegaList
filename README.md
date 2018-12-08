@@ -633,8 +633,6 @@ ____________________________
 
 - [Soundtrack Reviews](https://www.youtube.com/channel/UCNRZRlN0WBIAky1bVkHaz6w/videos)
 
-- 
-
 ## Camera
 
 - [50 Mistakes to Avoid](https://www.youtube.com/watch?v=C7307qRmlMI) :round_pushpin:
