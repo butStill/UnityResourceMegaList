@@ -235,22 +235,6 @@ ____________________________________________
 - [The Lazy Peon](https://www.youtube.com/user/ALazyPeon/videos) - first impressions, how does a new player view MMOs
 
 - [KingK](https://www.youtube.com/channel/UC18YhnNvyrU2kTwCyj9p5ag) - long analysis, particularly Nintendo games
-
-### Art
-
-- [Howard Wimshurst](https://www.youtube.com/user/HowardWimshurst/videos) - animation analysis, might be of use
-
-- [LMH Poly](https://www.youtube.com/channel/UCxBaTADLh3uUKhmP1cQ7ddg) - game asset tutorials
-
-- [Jayanam](https://www.youtube.com/user/jayanamgames) - Blender and Unity tutorials
-
-- [John's Art](https://www.youtube.com/user/LastManTheGame/videos) - Unity 
-
-- [CG Frog](https://www.youtube.com/channel/UCxB_FZFCI6S-fi2YjbC4SGQ) - level design, low poly design
-
-- [BlackthornProd](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g/videos) - 2D design
-
-- [Trent Kaniuga](https://www.youtube.com/user/novacolonyshow/videos) - insights into game art industry, including [differences in illustration vs. concept art](https://www.youtube.com/watch?v=q05Ikl-uUB8&t=6s) and [tips for game art professionals - provides insight into industry](https://www.youtube.com/watch?v=JPC-4yT8-TI&t=890s) :round_pushpin:
 ____________________________
 
 # Repositories and Resources
@@ -874,6 +858,20 @@ ____________________________
 - [Sinix Design](https://www.youtube.com/user/sinixdesign/videos) - great art and design tutorials :round_pushpin:
 
 - [The Secret of Making High Quality Art in Blender (and Everywhere)](https://www.youtube.com/watch?v=qMH_J_vcoqE) - non-uniform distribution of shapes (big medium small with high variety in each category - about 5x space ascending), balance areas of detail with negative space, clump together to form points of interest :round_pushpin:
+
+- [Howard Wimshurst](https://www.youtube.com/user/HowardWimshurst/videos) - animation analysis, might be of use
+
+- [LMH Poly](https://www.youtube.com/channel/UCxBaTADLh3uUKhmP1cQ7ddg) - game asset tutorials
+
+- [Jayanam](https://www.youtube.com/user/jayanamgames) - Blender and Unity tutorials
+
+- [John's Art](https://www.youtube.com/user/LastManTheGame/videos) - Unity 
+
+- [CG Frog](https://www.youtube.com/channel/UCxB_FZFCI6S-fi2YjbC4SGQ) - level design, low poly design
+
+- [BlackthornProd](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g/videos) - 2D design
+
+- [Trent Kaniuga](https://www.youtube.com/user/novacolonyshow/videos) - insights into game art industry, including [differences in illustration vs. concept art](https://www.youtube.com/watch?v=q05Ikl-uUB8&t=6s) and [tips for game art professionals - provides insight into industry](https://www.youtube.com/watch?v=JPC-4yT8-TI&t=890s) :round_pushpin:
 
 
 
