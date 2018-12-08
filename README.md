@@ -214,6 +214,8 @@ ____________________________________________
 
 - [VaatiVidya](https://www.youtube.com/user/VaatiVidya) - story design, mostly Dark Souls content
 
+- [SolePorpoise](https://www.youtube.com/channel/UCLrxoPXXOMkPbs9OOr9uGYg) - story design
+
 - [Adam Millard](https://www.youtube.com/user/Thefearalcarrot/videos) - game design analysis
 
 - [Codex Entry](https://www.youtube.com/channel/UCseUB-78sF7MGcbl4mHhEng/videos) - industry analysis, game design, game analysis
