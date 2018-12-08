@@ -208,7 +208,7 @@ ____________________________________________
 
 - [Indigo Gaming](https://www.youtube.com/channel/UCTRohxutThBffdcP3H6O0Zg/videos) - long analysis
 
-- [Joseph Anderson](https://www.youtube.com/channel/UCyhnYIvIKK_--PiJXCMKxQQ) - game critique
+- [Joseph Anderson](https://www.youtube.com/channel/UCyhnYIvIKK_--PiJXCMKxQQ) - game critique :round_pushpin:
 
 - [Core-A Gaming](https://www.youtube.com/channel/UCT7njg__VOy3n-SvXemDHvg) - analysis, particularly fighting games
 
@@ -248,7 +248,7 @@ ____________________________________________
 
 - [BlackthornProd](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g/videos) - 2D design
 
-- [Trent Kaniuga](https://www.youtube.com/user/novacolonyshow/videos) - insights into game art industry, including [differences in illustration vs. concept art](https://www.youtube.com/watch?v=q05Ikl-uUB8&t=6s) and [tips for game art professionals - provides insight into industry](https://www.youtube.com/watch?v=JPC-4yT8-TI&t=890s)
+- [Trent Kaniuga](https://www.youtube.com/user/novacolonyshow/videos) - insights into game art industry, including [differences in illustration vs. concept art](https://www.youtube.com/watch?v=q05Ikl-uUB8&t=6s) and [tips for game art professionals - provides insight into industry](https://www.youtube.com/watch?v=JPC-4yT8-TI&t=890s) :round_pushpin:
 ____________________________
 
 # Repositories and Resources
@@ -359,6 +359,8 @@ ____________________________
 - [1001FreeDownloads](https://www.1001freedownloads.com/) - free fonts, icons, vectors, textures
 
 - [Poliigon](https://www.poliigon.com/search/?category=free%20textures) - free high quality textures :round_pushpin:
+
+- [Texture Haven](https://texturehaven.com/textures/) - free textures
 
 - [Game-Icons.net](https://game-icons.net/) - free game icons
 
