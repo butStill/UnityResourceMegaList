@@ -216,6 +216,8 @@ ____________________________________________
 
 - [Mark Brown](https://www.youtube.com/user/McBacon1337) - short analysis :round_pushpin:
 
+- [Super Eyepatch Wolf](https://www.youtube.com/channel/UCtGoikgbxP4F3rgI9PldI9g/videos) - analysis
+
 - [Indigo Gaming](https://www.youtube.com/channel/UCTRohxutThBffdcP3H6O0Zg/videos) - long analysis
 
 - [Joseph Anderson](https://www.youtube.com/channel/UCyhnYIvIKK_--PiJXCMKxQQ) - game critique :round_pushpin:
@@ -259,6 +261,8 @@ ____________________________________________
 - [theDeModcracy](https://www.youtube.com/channel/UCtcUKdcAXfVCo5YlgBMkfjA/videos) - boss rankings 
 
 - [Sniatch](https://www.youtube.com/channel/UC7FCMYUoA5Hw72MLXJDwiRw/featured) - reactions to bosses by streamers
+
+- [Best Bosses Playlist](https://www.youtube.com/watch?v=bADDxtyyqKo&start_radio=1&list=RDQMkSDHPRDwhe4)
 ____________________________
 
 # Repositories and Resources
