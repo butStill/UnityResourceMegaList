@@ -230,7 +230,7 @@ ____________________________________________
 
 - [Game Wisdom](https://www.youtube.com/channel/UCJPQyAGAbIcXZXfM01oOPOA/featured) - game design theory and analysis
 
-- [Fevir](https://www.youtube.com/channel/UCHWRzq45vbfzPagu3AuzwGQ) - mostly RPG analysis
+- [Fevir](https://www.youtube.com/channel/UCHWRzq45vbfzPagu3AuzwGQ) - mostly RPG analysis :round_pushpin:
 
 - [Noah Caldwell-Gervais](https://www.youtube.com/user/broadcaststsatic/videos) - long analysis
 
@@ -243,6 +243,14 @@ ____________________________________________
 - [KingK](https://www.youtube.com/channel/UC18YhnNvyrU2kTwCyj9p5ag) - long analysis, particularly Nintendo games
 
 - [Shammy](https://www.youtube.com/channel/UCPhVxopWpXWy-qHMXRVPLEQ) - very in-depth analysis :round_pushpin:
+
+- [Turbo Button](https://www.youtube.com/user/KuribosMask) - action/fighting combat analysis :round_pushpin:
+
+- [B-Mask](https://www.youtube.com/user/Crashortsofevil/videos) - long-analysis
+
+- [Novacanoo](https://www.youtube.com/channel/UC7vOjKF8-TGVimB572cMuDA/videos) - series analysis
+
+- [Mandalore Gaming](https://www.youtube.com/user/MandaloreGaming/videos) - reviews :round_pushpin:
 ____________________________
 
 # Repositories and Resources
@@ -480,6 +488,8 @@ ____________________________
 - [Karl Iglesias Interview](https://www.youtube.com/watch?v=kyO17E3lIb0&list=WL&t=1074s&index=60) - creating empathy in film
 
 - [42 Ways to Avoid Writing a Boring Screenplay](https://www.youtube.com/watch?v=OBvusf6vn-0&list=WL&t=1276s&index=59)
+
+- [Hellblade and Living With Psychosis](https://www.youtube.com/watch?v=52flQkqj5gs) - showcases the realities of psychosis :round_pushpin:
 
 ## Lighting
 
