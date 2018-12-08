@@ -503,7 +503,7 @@ ____________________________
 
 - [Building a League of Legends Map](https://nexus.leagueoflegends.com/en-us/2017/09/dev-building-star-guardian-invasion/) and [another one](https://nexus.leagueoflegends.com/en-us/2017/11/dev-downloading-project-overcharge/)
 
-- [WoW Level Design](https://www.youtube.com/watch?v=XXD1gPDSUj0) - blizzcon 2017 
+- [WoW Level Design](https://www.youtube.com/watch?v=XXD1gPDSUj0) and [Level Design Panel](https://www.youtube.com/watch?v=eYDd3T_s1zo)
 
 - [WoW Boss Design Workshop](https://www.youtube.com/watch?v=6IGTzAcfig8) - blizzcon 2017
 
