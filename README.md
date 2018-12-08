@@ -291,7 +291,7 @@ ____________________________
 
 - [Unity](https://github.com/Unity-Technologies)
 
-- [Unity Technology Evangelists Team](https://github.com/UnityTechnologies) - nostly beta projects
+- [Unity Technology Evangelists Team](https://github.com/UnityTechnologies) - mostly beta projects
 
 - [IronWarrior](https://github.com/IronWarrior?tab=overview&from=2018-09-01&to=2018-09-30) - scripts for a deprecated character controller and some projectile stuff
 
