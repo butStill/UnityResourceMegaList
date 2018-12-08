@@ -525,6 +525,8 @@ ____________________________
 
 - [Folding Ideas](https://www.youtube.com/channel/UCyNtlmLB73-7gtlBz00XOQQ/videos) - story analysis:round_pushpin:
 
+- [Daganropa - Story as Incentive](https://www.youtube.com/watch?v=CZbIKCXqsOo&index=86&list=PLY19AO6MG8C4-6JIHte8CmxRfwOZPqmdY&t=0s)
+
 ## Lighting
 
 - [Best Practice for Lighting Pipelines](https://docs.unity3d.com/2018.2/Documentation/Manual/BestPracticeLightingPipelines.html)
