@@ -214,6 +214,8 @@ ____________________________________________
 
 - [Codex Entry](https://www.youtube.com/channel/UCseUB-78sF7MGcbl4mHhEng/videos) - industry analysis, game design, game analysis
 
+- [Writing on Games](https://www.youtube.com/channel/UCPlWv88ZRMxCcK3BGjrX7ew/videos) - game design analysis + industry analysis
+
 ### Game Analysis
 
 - [Mark Brown](https://www.youtube.com/user/McBacon1337) - short analysis :round_pushpin:
