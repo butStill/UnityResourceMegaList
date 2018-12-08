@@ -251,6 +251,8 @@ ____________________________________________
 - [Novacanoo](https://www.youtube.com/channel/UC7vOjKF8-TGVimB572cMuDA/videos) - series analysis
 
 - [Mandalore Gaming](https://www.youtube.com/user/MandaloreGaming/videos) - reviews :round_pushpin:
+
+- [The Act Man](https://www.youtube.com/channel/UC7WDD6yHgzdqijHluCi1z-Q) - basic overviews
 ____________________________
 
 # Repositories and Resources
