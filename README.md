@@ -283,6 +283,8 @@ ____________________________________________
 - [SuperBunnyHop](https://www.youtube.com/user/bunnyhopshow/videos) - analysis and reviews :round_pushpin:
 
 - [Matthewmatosis](https://www.youtube.com/channel/UCb_sF2m3-2azOqeNEdMwQPw) - analysis and reviews
+
+- [Luke Stephens](https://www.youtube.com/channel/UCe4_UPAmhz2sqorGbF8oZHA) - analysis
 ____________________________
 
 # Repositories and Resources
