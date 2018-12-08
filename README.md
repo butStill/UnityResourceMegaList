@@ -477,6 +477,10 @@ ____________________________
 
 - [Emily Short's Blog](https://emshort.blog/) - narrative in games
 
+- [Karl Iglesias Interview](https://www.youtube.com/watch?v=kyO17E3lIb0&list=WL&t=1074s&index=60) - creating empathy in film
+
+- [42 Ways to Avoid Writing a Boring Screenplay](https://www.youtube.com/watch?v=OBvusf6vn-0&list=WL&t=1276s&index=59)
+
 ## Lighting
 
 - [Best Practice for Lighting Pipelines](https://docs.unity3d.com/2018.2/Documentation/Manual/BestPracticeLightingPipelines.html)
