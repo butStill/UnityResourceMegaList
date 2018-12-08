@@ -253,6 +253,10 @@ ____________________________________________
 - [Mandalore Gaming](https://www.youtube.com/user/MandaloreGaming/videos) - reviews :round_pushpin:
 
 - [The Act Man](https://www.youtube.com/channel/UC7WDD6yHgzdqijHluCi1z-Q) - basic overviews
+
+- [theDeModcracy](https://www.youtube.com/channel/UCtcUKdcAXfVCo5YlgBMkfjA/videos) - boss rankings 
+
+- [Sniatch](https://www.youtube.com/channel/UC7FCMYUoA5Hw72MLXJDwiRw/featured) - reactions to bosses by streamers
 ____________________________
 
 # Repositories and Resources
