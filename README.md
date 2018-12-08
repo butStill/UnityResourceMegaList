@@ -563,7 +563,9 @@ ____________________________
 
 - [6 Details to Make a Great Player Character](https://www.youtube.com/watch?v=C2wwxd8SnKY)
 
-- [Animation in God of War](https://www.gamasutra.com/view/news/316445/Creating_fluid_combat_animations_for_the_new_God_of_War.php)
+- [Animation in God of War](https://www.gamasutra.com/view/news/316445/Creating_fluid_combat_animations_for_the_new_God_of_War.php)\
+
+- [The Little Things in Halo Reach](https://www.youtube.com/watch?v=Eg1oOiAEDaE) - animating body language
 
 ## UIUX
 
