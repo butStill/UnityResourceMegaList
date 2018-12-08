@@ -206,6 +206,10 @@ ____________________________________________
 
 - [Pixel Sift](https://www.youtube.com/channel/UCd9LmgS9mm6n94noYfQMfuQ) - industry podcasts
 
+- [PostMesmeric](https://www.youtube.com/channel/UCkEa7jTrubo2mvdoHXz38zw) 
+
+- [SnomanGaming](https://www.youtube.com/user/snomangaming/videos) - analysis :round_pushpin:
+
 - [noclip](https://www.youtube.com/channel/UC0fDG3byEcMtbOqPMymDNbw) - industry documentaries and interviews
 
 - [VaatiVidya](https://www.youtube.com/user/VaatiVidya) - story design, mostly Dark Souls content
@@ -498,6 +502,10 @@ ____________________________
 - [Sand Rendering in Unity](https://www.youtube.com/watch?v=wt2yYnBRD3U) - 2013 video
 
 - [Building a League of Legends Map](https://nexus.leagueoflegends.com/en-us/2017/09/dev-building-star-guardian-invasion/) and [another one](https://nexus.leagueoflegends.com/en-us/2017/11/dev-downloading-project-overcharge/)
+
+- [WoW Level Design](https://www.youtube.com/watch?v=XXD1gPDSUj0) - blizzcon 2017 
+
+- [WoW Boss Design Workshop](https://www.youtube.com/watch?v=6IGTzAcfig8) - blizzcon 2017
 
 ## Story Design
 
@@ -923,7 +931,6 @@ ____________________________
 
 - [Trent Kaniuga](https://www.youtube.com/user/novacolonyshow/videos) - insights into game art industry, including [differences in illustration vs. concept art](https://www.youtube.com/watch?v=q05Ikl-uUB8&t=6s) and [tips for game art professionals - provides insight into industry](https://www.youtube.com/watch?v=JPC-4yT8-TI&t=890s) :round_pushpin:
 
-
-
+- [The Art of WoW](https://www.youtube.com/watch?v=N-8gVd6gn3I) :round_pushpin:
 ___________________________________
 
