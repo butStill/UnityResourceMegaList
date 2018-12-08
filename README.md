@@ -669,6 +669,8 @@ ____________________________
 
 - [Designing Reward](https://www.youtube.com/watch?v=xkg9ocYDLr8) :round_pushpin:
 
+- [Under the Hood of Blizzard Games 1](https://www.youtube.com/watch?v=ICL8smJXiik) and [2](https://www.youtube.com/watch?v=-OnhHG7MWtY)
+
 ## Marketing
 
 - [Making the World Give a Damn About Your Game in 2018](https://www.youtube.com/watch?v=IWRu3RRqQmY)
