@@ -78,6 +78,8 @@ ____________________________________________
 
 - [Gameranx](https://www.youtube.com/user/gameranxTV/videos) - new game lists
 
+- [ZoominGames](https://www.youtube.com/user/ZoominGames/videos) - actually decent gaming lists :round_pushpin:
+
 ### Blogs and Opeds
 
 - [Medium](https://medium.com/topic/gaming) - news, guides :round_pushpin:
