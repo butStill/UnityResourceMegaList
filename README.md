@@ -275,6 +275,8 @@ ____________________________________________
 - [Best Bosses Playlist](https://www.youtube.com/watch?v=bADDxtyyqKo&start_radio=1&list=RDQMkSDHPRDwhe4)
 
 - [Robokast](https://www.youtube.com/user/robokastgaming/videos) - postmortems
+
+- [TheGamingBritShow](https://www.youtube.com/user/TheGamingBritShow/videos) - analysis and critique
 ____________________________
 
 # Repositories and Resources
