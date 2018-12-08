@@ -631,6 +631,10 @@ ____________________________
 
 - [aSoundEffect](https://www.asoundeffect.com/blog/) - an SFX blog with guides
 
+- [Soundtrack Reviews](https://www.youtube.com/channel/UCNRZRlN0WBIAky1bVkHaz6w/videos)
+
+- 
+
 ## Camera
 
 - [50 Mistakes to Avoid](https://www.youtube.com/watch?v=C7307qRmlMI) :round_pushpin:
