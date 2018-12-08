@@ -235,6 +235,8 @@ ____________________________________________
 - [The Lazy Peon](https://www.youtube.com/user/ALazyPeon/videos) - first impressions, how does a new player view MMOs
 
 - [KingK](https://www.youtube.com/channel/UC18YhnNvyrU2kTwCyj9p5ag) - long analysis, particularly Nintendo games
+
+- [Shammy](https://www.youtube.com/channel/UCPhVxopWpXWy-qHMXRVPLEQ) - very in-depth analysis
 ____________________________
 
 # Repositories and Resources
