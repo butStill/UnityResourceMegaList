@@ -212,9 +212,13 @@ ____________________________________________
 
 - [Adam Millard](https://www.youtube.com/user/Thefearalcarrot/videos) - game design analysis
 
+- [Codex Entry](https://www.youtube.com/channel/UCseUB-78sF7MGcbl4mHhEng/videos) - industry analysis, game design, game analysis
+
 ### Game Analysis
 
 - [Mark Brown](https://www.youtube.com/user/McBacon1337) - short analysis :round_pushpin:
+
+- [Foxcade](https://www.youtube.com/channel/UCOgYxEFQIVkmo4865ap0Zbw/videos) - analysis
 
 - [Super Eyepatch Wolf](https://www.youtube.com/channel/UCtGoikgbxP4F3rgI9PldI9g/videos) - analysis
 
@@ -263,6 +267,8 @@ ____________________________________________
 - [Sniatch](https://www.youtube.com/channel/UC7FCMYUoA5Hw72MLXJDwiRw/featured) - reactions to bosses by streamers
 
 - [Best Bosses Playlist](https://www.youtube.com/watch?v=bADDxtyyqKo&start_radio=1&list=RDQMkSDHPRDwhe4)
+
+- [Robokast](https://www.youtube.com/user/robokastgaming/videos) - postmortems
 ____________________________
 
 # Repositories and Resources
