@@ -204,6 +204,8 @@ ____________________________________________
 
 - [VaatiVidya](https://www.youtube.com/user/VaatiVidya) - story design, mostly Dark Souls content
 
+- [Adam Millard](https://www.youtube.com/user/Thefearalcarrot/videos) - game design analysis
+
 ### Game Analysis
 
 - [Mark Brown](https://www.youtube.com/user/McBacon1337) - short analysis :round_pushpin:
@@ -236,7 +238,7 @@ ____________________________________________
 
 - [KingK](https://www.youtube.com/channel/UC18YhnNvyrU2kTwCyj9p5ag) - long analysis, particularly Nintendo games
 
-- [Shammy](https://www.youtube.com/channel/UCPhVxopWpXWy-qHMXRVPLEQ) - very in-depth analysis
+- [Shammy](https://www.youtube.com/channel/UCPhVxopWpXWy-qHMXRVPLEQ) - very in-depth analysis :round_pushpin:
 ____________________________
 
 # Repositories and Resources
