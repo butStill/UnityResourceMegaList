@@ -622,6 +622,8 @@ ____________________________
 ## Marketing
 
 - [Making the World Give a Damn About Your Game in 2018](https://www.youtube.com/watch?v=IWRu3RRqQmY)
+
+- [Q&A With Stephen Hey](https://www.youtube.com/watch?v=5HijSpQP9BY) - basics of game marketing
 ____________________________
 
 # Monetization and Analytics
