@@ -277,6 +277,8 @@ ____________________________________________
 - [Robokast](https://www.youtube.com/user/robokastgaming/videos) - postmortems
 
 - [TheGamingBritShow](https://www.youtube.com/user/TheGamingBritShow/videos) - analysis and critique
+
+- [SuperBunnyHop](https://www.youtube.com/user/bunnyhopshow/videos) - analysis and reviews :round_pushpin:
 ____________________________
 
 # Repositories and Resources
