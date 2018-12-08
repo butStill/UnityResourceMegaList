@@ -76,6 +76,8 @@ ____________________________________________
 
 - [GameNewsHQ](http://www.gamenewshq.com/) - a site that compiles all game news 
 
+- [Gameranx](https://www.youtube.com/user/gameranxTV/videos) - new game lists
+
 ### Blogs and Opeds
 
 - [Medium](https://medium.com/topic/gaming) - news, guides :round_pushpin:
@@ -196,7 +198,9 @@ ____________________________________________
 
 - [Design Doc](https://www.youtube.com/user/Warbot40) - simple game design theory
 
-- [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) and the [GDC Vault](https://www.gdcvault.com/free) :round_pushpin: - game developers conference, plenty of useful keynotes
+- [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) and the [GDC Vault](https://www.gdcvault.com/free) - game developers conference, plenty of useful keynotes :round_pushpin:
+
+- [Dutch Game Garden](https://www.youtube.com/channel/UCjnAq02OapaHW_sJrEqRpWw) - interviews :round_pushpin:
 
 - [Pixel Sift](https://www.youtube.com/channel/UCd9LmgS9mm6n94noYfQMfuQ) - industry podcasts
 
