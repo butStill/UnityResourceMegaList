@@ -509,6 +509,8 @@ ____________________________
 
 - [Hellblade and Living With Psychosis](https://www.youtube.com/watch?v=52flQkqj5gs) - showcases the realities of psychosis :round_pushpin:
 
+- [Folding Ideas](https://www.youtube.com/channel/UCyNtlmLB73-7gtlBz00XOQQ/videos) - story analysis:round_pushpin:
+
 ## Lighting
 
 - [Best Practice for Lighting Pipelines](https://docs.unity3d.com/2018.2/Documentation/Manual/BestPracticeLightingPipelines.html)
