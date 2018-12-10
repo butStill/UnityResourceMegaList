@@ -903,6 +903,8 @@ ____________________________
 
 - [Using Free Software for Sprites](https://developer.amazon.com/blogs/appstore/post/6f274f74-7bee-4fc7-8dab-b1f66fdb2682/how-non-artists-can-use-free-software-to-create-basic-sprites-and-models-for-their-games)
 
+- [Material Design Guide](https://material.io/design/layout/understanding-layout.html#usage) - everything about modern UI design
+
 - [SimonSchreibt](https://simonschreibt.de/game-art-tricks/) - list of game art tips
 
 - [How to Create and Improve Basic Art](https://developer.amazon.com/blogs/appstore/post/a09b823e-52ce-4606-8b2e-12c12f13a555/how-to-create-and-improve-basic-art)
