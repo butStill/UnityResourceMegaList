@@ -452,11 +452,15 @@ ____________________________
 
 - [UIGradients](https://uigradients.com/) - free gradients :round_pushpin:
 
-- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/) - color picker 
+- [flatuicolors](https://flatuicolors.com/) - handpicked UI color palettes
+
+- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/) and [community curated palettes](https://color.adobe.com/explore/?filter=most-popular&time=month) 
 
 - [colormind](http://colormind.io/) - AI color picker
 
 - [Khroma](http://khroma.co/) and [inspiration for it](https://medium.com/weekly-color-inspiration-from-khroma) - AI color picker
+
+- [Coolers](https://coolors.co/ccd7c5-efd2cb-c7a27c-d65780-ee9480) - another AI color picker
 
 ## Tools
 
