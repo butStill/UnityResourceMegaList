@@ -386,6 +386,8 @@ ____________________________
 
 - [Google Fonts](https://fonts.google.com/) - free fonts :round_pushpin:
 
+- [FontJoy](https://fontjoy.com/) - AI font picker, select very similar 
+
 - [1001freefonts](https://www.1001freefonts.com/) - free fonts
 
 - [dafont](https://www.dafont.com) - free fonts
@@ -448,7 +450,11 @@ ____________________________
 
 - [ShaderToy](https://www.shadertoy.com/playlist/week) - free shaders
 
-- [UIGradients](https://uigradients.com/) - free gradients
+- [UIGradients](https://uigradients.com/) - free gradients :round_pushpin:
+
+- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/) - color picker 
+
+- [colormind](http://colormind.io/) - AI color picker
 
 ## Tools
 
