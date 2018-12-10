@@ -903,7 +903,7 @@ ____________________________
 
 - [Using Free Software for Sprites](https://developer.amazon.com/blogs/appstore/post/6f274f74-7bee-4fc7-8dab-b1f66fdb2682/how-non-artists-can-use-free-software-to-create-basic-sprites-and-models-for-their-games)
 
-- [Material Design Guide](https://material.io/design/layout/understanding-layout.html#usage) - everything about modern UI design
+- [Material Design Guide](https://material.io/design/layout/understanding-layout.html#usage) - everything about modern UI design :round_pushpin:
 
 - [SimonSchreibt](https://simonschreibt.de/game-art-tricks/) - list of game art tips
 
