@@ -456,6 +456,8 @@ ____________________________
 
 - [colormind](http://colormind.io/) - AI color picker
 
+- [Khroma](http://khroma.co/) and [inspiration for it](https://medium.com/weekly-color-inspiration-from-khroma) - AI color picker
+
 ## Tools
 
 - [Surge](https://assetstore.unity.com/packages/tools/utilities/surge-107312) - free collection of tools
@@ -815,6 +817,8 @@ ____________________________
 - [Microsoft AR Best Practices](https://docs.microsoft.com/en-us/windows/mixed-reality/best-practices-for-working-with-unity-and-visual-studio) and [AR development documents](https://docs.microsoft.com/en-us/windows/mixed-reality/)
 
 - [VR Rick and Morty](https://www.youtube.com/watch?v=7aqIbeQQL8c) - solving problems with humor, solving VR problems :round_pushpin:
+
+- [Google AR Design Guidelines](https://designguidelines.withgoogle.com/ar-design/) :round_pushpin:
 ____________________________
 
 # Mobile Development
