@@ -529,6 +529,8 @@ ____________________________
 
 - [WoW Boss Design Workshop](https://www.youtube.com/watch?v=6IGTzAcfig8) - blizzcon 2017
 
+- [BobbyRoss](http://bobbyross.com/tutorials/) - level design tutorials :round_pushpin:
+
 ## Story Design
 
 - [Making Choices Matter](https://www.youtube.com/watch?v=JTUER5dPj90) - story based on player progression choices
