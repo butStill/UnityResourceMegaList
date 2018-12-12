@@ -531,6 +531,8 @@ ____________________________
 
 - [BobbyRoss](http://bobbyross.com/tutorials/) - level design tutorials :round_pushpin:
 
+- [How to Make Low Poly Look Good](https://sundaysundae.co/how-to-make-low-poly-look-good/) :round_pushpin:
+
 ## Story Design
 
 - [Making Choices Matter](https://www.youtube.com/watch?v=JTUER5dPj90) - story based on player progression choices
