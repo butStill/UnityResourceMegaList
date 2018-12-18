@@ -195,6 +195,8 @@ ____________________________________________
 
 - [SpeedTutor](https://www.youtube.com/user/SpeedTutor/videos) - quick unity tutorials, programming-oriented
 
+- [Sharp Accent](https://www.youtube.com/channel/UCq9_1E5HE4c_xmhzD3r7VMw/videos) - unity tutorials
+
 ### Programming
 
 - [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ) - keynotes about programming
@@ -324,6 +326,8 @@ ____________________________
 - [UnityList](https://unitylist.com/) - Unity open source search engine, search thousands of repositories :round_pushpin:
 
 - [Humble Bundle](https://www.humblebundle.com/) - the only thing on this list that isn't free, but its bundles are pretty damn close
+
+- [SpeedTutor Free Asset Lists](https://www.assetstore.unity3d.com/en/?stay#!/user/5772474919756) - monthly lists of free assets on the asset store :round_pushpin:
 
 ## Models
 
@@ -934,6 +938,10 @@ ____________________________
 - [Blender Manual](https://docs.blender.org/manual/en/latest/index.html)
 
 - [Creating Better Game Assets in Blender](https://www.oreilly.com/learning-paths/learning-path-creating/9781491992265/9781491992340-video312315)
+
+- [Procedural Wear in Blender A-Z](https://docs.google.com/document/u/2/d/1fWaorEppgDpnP08XbTKipR7S0JdARZgoMI9ApmCmBa4/mobilebasic) - huge document
+
+- [Perfect Baking for Videogames](https://gumroad.com/l/HIxyT)
 
 ## Art Resources
 
