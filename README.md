@@ -46,6 +46,7 @@ ____________________________________________
   - [Animation](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#animation)
   - [UI/UX](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#uiux)
   - [Audio](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#audio)
+  - [Character Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#character-design)
   - [Camera](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#camera)
   - [Game Design](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#game-design)
   - [AI](https://github.com/butStill/UnityResourceMegaList/blob/master/README.md#ai)
@@ -513,6 +514,10 @@ ____________________________
 
 - [10 principles of Level Design](https://www.youtube.com/watch?v=iNEe3KhMvXM&t=2509s) - fun to navigate, doesn't rely on words, tells what but not how, constantly teaches, is suprising, empowers the player, is easy medium and hard, is efficient, creates emotion, is driven by mechanics
 
+- [Level Design Workshop: Blockmesh and Lighting Tips](https://www.youtube.com/watch?time_continue=115&v=09r1B9cVEQY)
+
+- [Introduction to Level Design](https://80.lv/articles/introduction-to-level-design-for-games/)
+
 - [The Hows and Whys of Level Design](http://www.hourences.com/product/the-hows-and-whys-of-level-design-2/) - old (2007)
 
 - [Holistic Level Design](https://www.youtube.com/watch?v=CpOoTAVeEcU) - designing for intentionality
@@ -581,6 +586,8 @@ ____________________________
 
 - [Creating Stylized Projectiles in Unity](https://80.lv/articles/creating-projectiles-in-unity/) :round_pushpin:
 
+- [Artistic Principles of VFX](https://www.youtube.com/watch?v=WLMVpcK0WvA) :round_pushpin:
+
 - [The VFX of Diablo III](https://www.gdcvault.com/play/1017660/Technical-Artist-Bootcamp-The-VFX)
 
 - [Getting Started in Real-Time VFX](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415)
@@ -615,7 +622,7 @@ ____________________________
 
 - [Creating Animated Materials with Shader Graph](https://blogs.unity3d.com/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/)
 
-- [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)
+- [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)  :round_pushpin:
 
 - [Animation in Naruto](https://www.youtube.com/watch?v=i6Z9m_0-DVo)
 
@@ -650,6 +657,10 @@ ____________________________
 - [aSoundEffect](https://www.asoundeffect.com/blog/) - an SFX blog with guides
 
 - [Soundtrack Reviews](https://www.youtube.com/channel/UCNRZRlN0WBIAky1bVkHaz6w/videos)
+
+## Character Design
+
+- [Tips and Tricks](https://80.lv/articles/efficient-character-design-for-games-tips-tricks/) :round_pushpin:
 
 ## Camera
 
