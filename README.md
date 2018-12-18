@@ -526,6 +526,8 @@ ____________________________
 
 - [10 principles of Level Design](https://www.youtube.com/watch?v=iNEe3KhMvXM&t=2509s) - fun to navigate, doesn't rely on words, tells what but not how, constantly teaches, is suprising, empowers the player, is easy medium and hard, is efficient, creates emotion, is driven by mechanics
 
+- [Level Design Dos and Donts](https://80.lv/articles/the-art-of-level-design-dos-and-donts/) :round_pushpin:
+
 - [Beach Level Breakdown](https://www.youtube.com/watch?v=PSrg7rYlmGo)
 
 - [Key Factors in Environment Design of Lawbreakers](https://80.lv/articles/key-factors-in-environment-design-of-lawbreakers/)
@@ -725,6 +727,8 @@ ____________________________
 
 - [Designing Cozy Games](http://www.lostgarden.com/2018/01/cozy-games.html)
 
+- [5 Pillars of Immersive Sims](https://80.lv/articles/five-pillars-of-immersive-sims/)  :round_pushpin:
+
 - [Introducing Game Mechanics](https://80.lv/articles/game-design-introducing-mechanics/)
 
 - [theGameDesignForum](http://www.thegamedesignforum.com/) - detailed game analysis
@@ -744,6 +748,8 @@ ____________________________
 - [Designing Reward](https://www.youtube.com/watch?v=xkg9ocYDLr8) :round_pushpin:
 
 - [Under the Hood of Blizzard Games 1](https://www.youtube.com/watch?v=ICL8smJXiik) and [2](https://www.youtube.com/watch?v=-OnhHG7MWtY)
+
+- [Game Details Turning Ordinary to Extraordinary](https://80.lv/articles/game-details-turning-ordinary-to-extraordinary/) and [part 2](https://80.lv/articles/game-details-turning-ordinary-to-extraordinary-part-2/)
 
 ## Marketing
 
