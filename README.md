@@ -519,6 +519,8 @@ ____________________________
 
 - [Super Mario's Level Design](https://medium.com/@abhishekiyer_25378/the-perfect-game-tutorial-analyzing-super-marios-level-design-92f08c28bdf7)
 
+- [Tips on Stylized Environment Building](https://80.lv/articles/tips-on-stylized-environment-building/)
+
 - [League of Legends Map Style](https://oce.leagueoflegends.com/en/news/game-updates/features/dev-blog-defining-rifts-visual-style)
 
 - [Sand Rendering in Unity](https://www.youtube.com/watch?v=wt2yYnBRD3U) - 2013 video
