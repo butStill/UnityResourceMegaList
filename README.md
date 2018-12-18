@@ -564,6 +564,8 @@ ____________________________
 
 - [Making Choices Matter](https://www.youtube.com/watch?v=JTUER5dPj90) - story based on player progression choices
 
+- [The Power of Metaphors](https://www.youtube.com/watch?v=rXU7xzYhiiQ) :round_pushpin:
+
 - [Emily Short's Blog](https://emshort.blog/) - narrative in games
 
 - [Karl Iglesias Interview](https://www.youtube.com/watch?v=kyO17E3lIb0&list=WL&t=1074s&index=60) - creating empathy in film
@@ -622,9 +624,11 @@ ____________________________
 
 - [SirhaianArts](https://www.youtube.com/channel/UCUqIetx0scoe79qZTovn9BA/videos) - vfx tutorials, analysis
 
+- [Creating a Stylized Waterfall](https://80.lv/articles/creating-a-stylized-waterfall-in-unity-part-4/
+
 - [League of Legends VFX Style Guide](https://nexus.leagueoflegends.com/wp-content/uploads/2017/10/VFX_Styleguide_final_public_hidpjqwx7lqyx0pjj3ss.pdf)
 
-- [Shannon Berke League of Legends Knowledge Share](https://realtimevfx.com/t/shannon-berke-lol-fx-knowledge-share/1133) - forum post with lots of VFX tips
+- [Shannon Berke League of Legends Knowledge Share](https://realtimevfx.com/t/shannon-berke-lol-fx-knowledge-share/1133) - forum post with lots of VFX tips :round_pushpin:
 
 - [Anime Style VFX Workflow](https://www.youtube.com/watch?v=fE-uDqBpXxI)
 
