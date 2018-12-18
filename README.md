@@ -189,6 +189,12 @@ ____________________________________________
 
 - [Speed Tutor](https://www.youtube.com/user/SpeedTutor/videos) - specific Unity tutorials
 
+- [Matt Parkin](https://www.youtube.com/user/mentallic3d/videos) - wide-ranging high-level tutorials including making a battle royale game in unity :round_pushpin:
+
+- [TheMessyCoder](https://www.youtube.com/channel/UCeXJl4hWkgS-wvtvRtS_y2w/videos) - unity tutorials
+
+- [SpeedTutor](https://www.youtube.com/user/SpeedTutor/videos) - quick unity tutorials, programming-oriented
+
 ### Programming
 
 - [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ) - keynotes about programming
@@ -411,6 +417,8 @@ ____________________________
 
 - [TextureHaven](https://texturehaven.com/) - high quality free textures
 
+- [CC0 Textures](https://cc0textures.com/) - 300+ free PBR textures
+
 - [Textures](https://www.textures.com/) - 15 free per day, limited resolution, need to sign up
 
 - [Textture King](https://www.textureking.com/) - free stock textures
@@ -514,15 +522,21 @@ ____________________________
 
 - [10 principles of Level Design](https://www.youtube.com/watch?v=iNEe3KhMvXM&t=2509s) - fun to navigate, doesn't rely on words, tells what but not how, constantly teaches, is suprising, empowers the player, is easy medium and hard, is efficient, creates emotion, is driven by mechanics
 
+- [Beach Level Breakdown](https://www.youtube.com/watch?v=PSrg7rYlmGo)
+
+- [Key Factors in Environment Design of Lawbreakers](https://80.lv/articles/key-factors-in-environment-design-of-lawbreakers/)
+
 - [Level Design Workshop: Blockmesh and Lighting Tips](https://www.youtube.com/watch?time_continue=115&v=09r1B9cVEQY)
 
-- [Introduction to Level Design](https://80.lv/articles/introduction-to-level-design-for-games/)
+- [Introduction to Level Design](https://80.lv/articles/introduction-to-level-design-for-games/) :round_pushpin:
 
 - [The Hows and Whys of Level Design](http://www.hourences.com/product/the-hows-and-whys-of-level-design-2/) - old (2007)
 
 - [Holistic Level Design](https://www.youtube.com/watch?v=CpOoTAVeEcU) - designing for intentionality
 
 - [Super Mario's Level Design](https://medium.com/@abhishekiyer_25378/the-perfect-game-tutorial-analyzing-super-marios-level-design-92f08c28bdf7)
+
+- [Overwatch Map Design Breakdown](https://www.youtube.com/watch?v=Sq8upPdpn-w)
 
 - [Tips on Stylized Environment Building](https://80.lv/articles/tips-on-stylized-environment-building/)
 
@@ -565,6 +579,8 @@ ____________________________
 - [Basic Lighting Guide](https://www.youtube.com/watch?v=VnG2gOKV9dw)
 
 - [Pixar's Secret Ingredient](https://www.youtube.com/watch?v=Z1R1z9ipFnM&list=WL&t=7s&index=19)
+
+- [Learning Lighting for Games](https://80.lv/articles/learning-lighting-for-video-games/)
 
 ## Shaders
 
@@ -619,6 +635,15 @@ ____________________________
 - [Gamedesigning.org Animation](https://www.gamedesigning.org/category/animation/) - basic Animation tutorials
 
 - [Animation for Games](https://vimeo.com/jamesmarijeanne) - by James Marijeanne, a pro
+:round_pushpin:
+
+- [How2Animate](https://www.youtube.com/channel/UC4t3esSIxIJeXFF2Ivd8hQg/videos) - animation tutorials 
+
+- [Harvey Newman](https://www.youtube.com/channel/UCCtYt5A-fLjgEECY1Z7PefQ/videos) - animation tutorials
+
+- [I Want to Be an Animator](https://www.youtube.com/channel/UCR4oFFjKQKHj_fCOkBLH61w/videos) - animation tutorials
+
+- [WATCHMEANIMATE Game Animation Tutorials](https://www.youtube.com/channel/UCxtfNKYEnJLzM-60BFyITSA/featured) and [How to Animate Jurassic World's T-Rex](https://www.youtube.com/watch?v=4Xgf09juR_o):round_pushpin:
 
 - [Creating Animated Materials with Shader Graph](https://blogs.unity3d.com/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/)
 
@@ -695,6 +720,8 @@ ____________________________
 - [GameDesigning.org](https://www.gamedesigning.org/category/learn/) - basic game design tutorials
 
 - [Designing Cozy Games](http://www.lostgarden.com/2018/01/cozy-games.html)
+
+- [Introducing Game Mechanics](https://80.lv/articles/game-design-introducing-mechanics/)
 
 - [theGameDesignForum](http://www.thegamedesignforum.com/) - detailed game analysis
 
@@ -981,5 +1008,11 @@ ____________________________
 - [Trent Kaniuga](https://www.youtube.com/user/novacolonyshow/videos) - insights into game art industry, including [differences in illustration vs. concept art](https://www.youtube.com/watch?v=q05Ikl-uUB8&t=6s) and [tips for game art professionals - provides insight into industry](https://www.youtube.com/watch?v=JPC-4yT8-TI&t=890s) :round_pushpin:
 
 - [The Art of WoW](https://www.youtube.com/watch?v=N-8gVd6gn3I) :round_pushpin:
+
+- [Rigging Tips and Tricks](https://80.lv/articles/tips-tricks-on-character-rigging/)
+
+- [Fundamental Tricks for Painting](https://80.lv/articles/fundamental-tricks-for-painting/)
+
+- [Female Character Anatomy](https://80.lv/articles/female-character-production-guide/)
 ___________________________________
 
