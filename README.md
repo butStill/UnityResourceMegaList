@@ -397,6 +397,8 @@ ____________________________
 
 - [Google Fonts](https://fonts.google.com/) - free fonts :round_pushpin:
 
+- [Creativeshrimp Resource List](https://www.creativeshrimp.com/resources.html) - list of resources for 3D
+
 - [FontJoy](https://fontjoy.com/) - AI font picker, select very similar 
 
 - [1001freefonts](https://www.1001freefonts.com/) - free fonts
@@ -434,6 +436,10 @@ ____________________________
 - [OpenGameArt](https://opengameart.org/) - free game art
 
 - [StickPNG](http://www.stickpng.com/) - free transparent PNGs
+
+- [EffectTextureMaker](https://mebiusbox.github.io/contents/EffectTextureMaker/) - free tool to make textures for VFX
+
+- [1mafx Noise Texture Library](https://gumroad.com/1mafx) - free noise textures for VFX
 
 - [Free Assets Courtesy of Jean Moreno](http://www.jeanmoreno.com/) - some free shaders and assets on unity store
 
@@ -478,6 +484,8 @@ ____________________________
 ## Tools
 
 - [Surge](https://assetstore.unity.com/packages/tools/utilities/surge-107312) - free collection of tools
+
+- [Materialize](https://github.com/BoundingBoxSoftware/Materialize) - converts images into textures
 ____________________________
 
 # Guides and Resources
@@ -627,6 +635,8 @@ ____________________________
 - [Creating a Stylized Waterfall](https://80.lv/articles/creating-a-stylized-waterfall-in-unity-part-4/
 
 - [League of Legends VFX Style Guide](https://nexus.leagueoflegends.com/wp-content/uploads/2017/10/VFX_Styleguide_final_public_hidpjqwx7lqyx0pjj3ss.pdf)
+
+- [DucVu FX](https://www.youtube.com/channel/UC5ZauAWNyh931gRJUqB1QPw) - old vfx tutorials
 
 - [Shannon Berke League of Legends Knowledge Share](https://realtimevfx.com/t/shannon-berke-lol-fx-knowledge-share/1133) - forum post with lots of VFX tips :round_pushpin:
 
@@ -943,15 +953,21 @@ ____________________________
 
 - [10 Blender UV Tips](https://www.youtube.com/watch?v=brnaAL-QwhU)
 
+- [Basic Low-Poly Environment Tutorial](https://cgi.tutsplus.com/tutorials/secrets-to-creating-low-poly-illustrations-in-blender--cg-31770)
+
 - [Free UE4 Asset](https://chloeeemegan.itch.io/recreation-of-surviving-a-pandemic-) - good blender documentation
 
-- [Blender Manual](https://docs.blender.org/manual/en/latest/index.html)
+- [Blender Manual](https://docs.blender.org/manual/en/latest/index.html) :round_pushpin:
+
+- [Blender Tutorials](https://www.blender.org/support/tutorials/) :round_pushpin:
 
 - [Creating Better Game Assets in Blender](https://www.oreilly.com/learning-paths/learning-path-creating/9781491992265/9781491992340-video312315)
 
 - [Procedural Wear in Blender A-Z](https://docs.google.com/document/u/2/d/1fWaorEppgDpnP08XbTKipR7S0JdARZgoMI9ApmCmBa4/mobilebasic) - huge document
 
 - [Perfect Baking for Videogames](https://gumroad.com/l/HIxyT)
+
+- [D-Noise](https://remingtongraphics.net/tools/d-noise/) - AI denoiser for Blender and [more tools and tutorials](https://remingtongraphics.net/tools/)
 
 ## Art Resources
 
