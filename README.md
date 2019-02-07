@@ -81,6 +81,8 @@ ____________________________________________
 
 - [ZoominGames](https://www.youtube.com/user/ZoominGames/videos) - actually decent gaming lists :round_pushpin:
 
+- [VentureBeat](venturebeat.com) - game design news 
+
 ### Blogs and Opeds
 
 - [Medium](https://medium.com/topic/gaming) - news, guides :round_pushpin:
