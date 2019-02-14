@@ -893,6 +893,12 @@ ____________________________
 - [VR Rick and Morty](https://www.youtube.com/watch?v=7aqIbeQQL8c) - solving problems with humor, solving VR problems :round_pushpin:
 
 - [Google AR Design Guidelines](https://designguidelines.withgoogle.com/ar-design/) :round_pushpin:
+
+- [VR Top 10 Best Practices](https://artillry.co/wp-content/uploads/2018/04/VRARA-Top-10-VR-Best-Practices.pdf)
+
+- [VR Design Best Practices](https://medium.com/@LeapMotion/vr-design-best-practices-bb889c2dc70)
+
+- [Oculus VR Best Practices](https://developer.oculus.com/design/latest/concepts/book-bp/) :round_pushpin:
 ____________________________
 
 # Mobile Development
