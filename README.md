@@ -999,6 +999,8 @@ ____________________________
 
 - [bashooka](https://bashooka.com) - inspiration
 
+- [fantasy art engine](http://fantasy-art-engine.tumblr.com/page/1) - compilation of fantasy art
+
 ### Guides
 
 - [Using Free Software for Sprites](https://developer.amazon.com/blogs/appstore/post/6f274f74-7bee-4fc7-8dab-b1f66fdb2682/how-non-artists-can-use-free-software-to-create-basic-sprites-and-models-for-their-games)
