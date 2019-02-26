@@ -560,6 +560,8 @@ ____________________________
 
 - [Sand Rendering in Unity](https://www.youtube.com/watch?v=wt2yYnBRD3U) - 2013 video
 
+- [How to Make Low Poly Look Good](https://sundaysundae.co/how-to-make-low-poly-look-good/) :round_pushpin:
+
 - [Building a League of Legends Map](https://nexus.leagueoflegends.com/en-us/2017/09/dev-building-star-guardian-invasion/) and [another one](https://nexus.leagueoflegends.com/en-us/2017/11/dev-downloading-project-overcharge/)
 
 - [WoW Level Design](https://www.youtube.com/watch?v=XXD1gPDSUj0) and [Level Design Panel](https://www.youtube.com/watch?v=eYDd3T_s1zo)
